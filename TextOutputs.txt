@@ -1,0 +1,1230 @@
+K2 Q5:
+
+🧠 Combined Prompt:
+Length: 2772 characters, approximately 462 tokens
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_deprecation.py:131: FutureWarning: 'post' (from 'huggingface_hub.inference._client') is deprecated and will be removed from version '0.31.0'. Making direct POST requests to the inference server is not supported anymore. Please use task methods instead (e.g. `InferenceClient.chat_completion`). If your use case is not supported, please open an issue in https://github.com/huggingface/huggingface_hub.
+  warnings.warn(warning_message, FutureWarning)
+
+📤 LLM Response:
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+A1: Saint Bernadette Soubirous
+A2: A copper statue of Christ
+A3: The Basilica of the Sacred Heart
+A4: A Marian place of prayer and reflection, a replica of the grotto at Lourdes, France
+A5: September 1876
+A6: Twice a year
+A7: The Observer
+A8: Three student news papers (The Observer, Common Sense, and Irish Rover)
+============================================================
+
+🔍 Side-by-Side Comparison:
+
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+✅ Ground Truth: Saint Bernadette Soubirous
+🤖 LLM Answer  : Saint Bernadette Soubirous
+------------------------------------------------------------
+Q2: What is in front of the Notre Dame Main Building?
+✅ Ground Truth: a copper statue of Christ
+🤖 LLM Answer  : A copper statue of Christ
+------------------------------------------------------------
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+✅ Ground Truth: the Main Building
+🤖 LLM Answer  : The Basilica of the Sacred Heart
+------------------------------------------------------------
+Q4: What is the Grotto at Notre Dame?
+✅ Ground Truth: a Marian place of prayer and reflection
+🤖 LLM Answer  : A Marian place of prayer and reflection, a replica of the grotto at Lourdes, France
+------------------------------------------------------------
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+✅ Ground Truth: September 1876
+🤖 LLM Answer  : September 1876
+------------------------------------------------------------
+Q6: How often is Notre Dame's the Juggler published?
+✅ Ground Truth: twice
+🤖 LLM Answer  : Twice a year
+------------------------------------------------------------
+Q7: What is the daily student paper at Notre Dame called?
+✅ Ground Truth: The Observer
+🤖 LLM Answer  : The Observer
+------------------------------------------------------------
+Q8: How many student news papers are found at Notre Dame?
+✅ Ground Truth: three
+🤖 LLM Answer  : Three student news papers (The Observer, Common Sense, and Irish Rover)
+
+
+K4 Q5:
+
+🧠 Combined Prompt:
+Length: 5105 characters, approximately 830 tokens
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: What sits on top of the Main Building at Notre Dame?
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+Q7: How often is Notre Dame's the Juggler published?
+Q8: What is the daily student paper at Notre Dame called?
+Q9: How many student news papers are found at Notre Dame?
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+Q13: What is the oldest structure at Notre Dame?
+Q14: What individuals live at Fatima House at Notre Dame?
+Q15: Which prize did Frederick Buechner create?
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q17: In what year was the College of Engineering at Notre Dame formed?
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.
+
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.
+
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_deprecation.py:131: FutureWarning: 'post' (from 'huggingface_hub.inference._client') is deprecated and will be removed from version '0.31.0'. Making direct POST requests to the inference server is not supported anymore. Please use task methods instead (e.g. `InferenceClient.chat_completion`). If your use case is not supported, please open an issue in https://github.com/huggingface/huggingface_hub.
+  warnings.warn(warning_message, FutureWarning)
+
+📤 LLM Response:
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: What sits on top of the Main Building at Notre Dame?
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+Q7: How often is Notre Dame's the Juggler published?
+Q8: What is the daily student paper at Notre Dame called?
+Q9: How many student news papers are found at Notre Dame?
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+Q13: What is the oldest structure at Notre Dame?
+Q14: What individuals live at Fatima House at Notre Dame?
+Q15: Which prize did Frederick Buechner create?
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q17: In what year was the College of Engineering at Notre Dame formed?
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.
+
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.
+
+A1: Saint Bernadette Soubirous
+A2: Christ
+A3: Basilica of the Sacred Heart
+A4: A replica of the grotto at Lourdes, France
+A5: A golden statue of the Virgin Mary
+A6: September 1876
+A7: Twice a year
+A8: The Observer
+A9: 3
+A10: 1987
+A11: Rome
+A12: Moreau Seminary
+A13: Old College
+A14: Retired priests and brothers
+A15: Buechner Prize for Preaching
+A16: 8
+A17: 1920
+A18: College of Science
+A19: 5
+A20: Since the 1870s
+============================================================
+
+🔍 Side-by-Side Comparison:
+
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+✅ Ground Truth: Saint Bernadette Soubirous
+🤖 LLM Answer  : Saint Bernadette Soubirous
+------------------------------------------------------------
+Q2: What is in front of the Notre Dame Main Building?
+✅ Ground Truth: a copper statue of Christ
+🤖 LLM Answer  : Christ
+------------------------------------------------------------
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+✅ Ground Truth: the Main Building
+🤖 LLM Answer  : Basilica of the Sacred Heart
+------------------------------------------------------------
+Q4: What is the Grotto at Notre Dame?
+✅ Ground Truth: a Marian place of prayer and reflection
+🤖 LLM Answer  : A replica of the grotto at Lourdes, France
+------------------------------------------------------------
+Q5: What sits on top of the Main Building at Notre Dame?
+✅ Ground Truth: a golden statue of the Virgin Mary
+🤖 LLM Answer  : A golden statue of the Virgin Mary
+------------------------------------------------------------
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+✅ Ground Truth: September 1876
+🤖 LLM Answer  : September 1876
+------------------------------------------------------------
+Q7: How often is Notre Dame's the Juggler published?
+✅ Ground Truth: twice
+🤖 LLM Answer  : Twice a year
+------------------------------------------------------------
+Q8: What is the daily student paper at Notre Dame called?
+✅ Ground Truth: The Observer
+🤖 LLM Answer  : The Observer
+------------------------------------------------------------
+Q9: How many student news papers are found at Notre Dame?
+✅ Ground Truth: three
+🤖 LLM Answer  : 3
+------------------------------------------------------------
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+✅ Ground Truth: 1987
+🤖 LLM Answer  : 1987
+------------------------------------------------------------
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+✅ Ground Truth: Rome
+🤖 LLM Answer  : Rome
+------------------------------------------------------------
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+✅ Ground Truth: Moreau Seminary
+🤖 LLM Answer  : Moreau Seminary
+------------------------------------------------------------
+Q13: What is the oldest structure at Notre Dame?
+✅ Ground Truth: Old College
+🤖 LLM Answer  : Old College
+------------------------------------------------------------
+Q14: What individuals live at Fatima House at Notre Dame?
+✅ Ground Truth: Retired priests and brothers
+🤖 LLM Answer  : Retired priests and brothers
+------------------------------------------------------------
+Q15: Which prize did Frederick Buechner create?
+✅ Ground Truth: Buechner Prize for Preaching
+🤖 LLM Answer  : Buechner Prize for Preaching
+------------------------------------------------------------
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+✅ Ground Truth: eight
+🤖 LLM Answer  : 8
+------------------------------------------------------------
+Q17: In what year was the College of Engineering at Notre Dame formed?
+✅ Ground Truth: 1920
+🤖 LLM Answer  : 1920
+------------------------------------------------------------
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+✅ Ground Truth: the College of Science
+🤖 LLM Answer  : College of Science
+------------------------------------------------------------
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+✅ Ground Truth: five
+🤖 LLM Answer  : 5
+------------------------------------------------------------
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+✅ Ground Truth: the 1870s
+🤖 LLM Answer  : Since the 1870s
+------------------------------------------------------------
+
+
+
+K6 Q5:
+
+
+
+
+K8 Q5:
+
+🧠 Combined Prompt:
+Length: 9693 characters, approximately 1587 tokens
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: What sits on top of the Main Building at Notre Dame?
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+Q7: How often is Notre Dame's the Juggler published?
+Q8: What is the daily student paper at Notre Dame called?
+Q9: How many student news papers are found at Notre Dame?
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+Q13: What is the oldest structure at Notre Dame?
+Q14: What individuals live at Fatima House at Notre Dame?
+Q15: Which prize did Frederick Buechner create?
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q17: In what year was the College of Engineering at Notre Dame formed?
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+Q22: How many colleges for undergraduates are at Notre Dame?
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+Q26: What type of degree is an M.Div.?
+Q27: Which program at Notre Dame offers a Master of Education degree?
+Q28: In what year was a Master of Arts course first offered at Notre Dame?
+Q29: Which department at Notre Dame is the only one to not offer a PhD program?
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+Q33: To whom was John B. Kroc married?
+Q34: What company did Ray Kroc own?
+Q35: How many stories tall is the main library at Notre Dame?
+Q36: What is the name of the main library at Notre Dame?
+Q37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+Q38: Which artist created the mural on the Theodore M. Hesburgh Library?
+Q39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.
+
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.
+
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+
+The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years.
+
+The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded in 1986 through the donations of Joan B. Kroc, the widow of McDonald's owner Ray Kroc. The institute was inspired by the vision of the Rev. Theodore M. Hesburgh CSC, President Emeritus of the University of Notre Dame. The institute has contributed to international policy discussions about peace building practices.
+
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets. This mural is popularly known as "Touchdown Jesus" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown.
+
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_deprecation.py:131: FutureWarning: 'post' (from 'huggingface_hub.inference._client') is deprecated and will be removed from version '0.31.0'. Making direct POST requests to the inference server is not supported anymore. Please use task methods instead (e.g. `InferenceClient.chat_completion`). If your use case is not supported, please open an issue in https://github.com/huggingface/huggingface_hub.
+  warnings.warn(warning_message, FutureWarning)
+
+📤 LLM Response:
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: What sits on top of the Main Building at Notre Dame?
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+Q7: How often is Notre Dame's the Juggler published?
+Q8: What is the daily student paper at Notre Dame called?
+Q9: How many student news papers are found at Notre Dame?
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+Q13: What is the oldest structure at Notre Dame?
+Q14: What individuals live at Fatima House at Notre Dame?
+Q15: Which prize did Frederick Buechner create?
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q17: In what year was the College of Engineering at Notre Dame formed?
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+Q22: How many colleges for undergraduates are at Notre Dame?
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+Q26: What type of degree is an M.Div.?
+Q27: Which program at Notre Dame offers a Master of Education degree?
+Q28: In what year was a Master of Arts course first offered at Notre Dame?
+Q29: Which department at Notre Dame is the only one to not offer a PhD program?
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+Q33: To whom was John B. Kroc married?
+Q34: What company did Ray Kroc own?
+Q35: How many stories tall is the main library at Notre Dame?
+Q36: What is the name of the main library at Notre Dame?
+Q37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+Q38: Which artist created the mural on the Theodore M. Hesburgh Library?
+Q39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.
+
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.
+
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+
+The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years.
+
+The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded in 1986 through the donations of Joan B. Kroc, the widow of McDonald's owner Ray Kroc. The institute was inspired by the vision of the Rev. Theodore M. Hesburgh CSC, President Emeritus of the University of Notre Dame. The institute has contributed to international policy discussions about peace building practices.
+
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets. This mural is popularly known as "Touchdown Jesus" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown.
+
+A1: Saint Bernadette Soubirous
+A2: A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes"
+A3: The Basilica of the Sacred Heart
+A4: A Marian place of prayer and reflection, a replica of the grotto at Lourdes, France
+A5: A golden statue of the Virgin Mary
+A6: September 1876
+A7: Twice a year
+A8: The Observer
+A9: Nine
+A10: 1967
+A11: Rome
+A12: Moreau Seminary
+A13: Old College
+A14: Retired priests and brothers
+A15: Buechner Prize for Preaching
+A16: 8
+A17: 1920
+A18: College of Science
+A19: 12
+A20: 1892
+A21: The First Year of Studies program
+A22: 5
+A23: First Year of Studies program
+A24: U.S. News & World Report
+A25: 1854
+A26: Master of Divinity
+A27: Alliance for Catholic Education program
+A28: 1854
+A29: Department of Pre-Professional Studies
+A30: Kroc Institute for International Peace Studies
+A31: Rev. Theodore M. Hesburgh CSC
+A32: 1986
+A33: Ethel Frances Harig
+A34: McDonald's
+A35: 14
+A36: Theodore M. Hesburgh Library
+A37: 1963
+A38: Millard Sheets
+A39: Touchdown Jesus
+============================================================
+
+🔍 Side-by-Side Comparison:
+
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+✅ Ground Truth: Saint Bernadette Soubirous
+🤖 LLM Answer  : Saint Bernadette Soubirous
+------------------------------------------------------------
+Q2: What is in front of the Notre Dame Main Building?
+✅ Ground Truth: a copper statue of Christ
+🤖 LLM Answer  : A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes"
+------------------------------------------------------------
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+✅ Ground Truth: the Main Building
+🤖 LLM Answer  : The Basilica of the Sacred Heart
+------------------------------------------------------------
+Q4: What is the Grotto at Notre Dame?
+✅ Ground Truth: a Marian place of prayer and reflection
+🤖 LLM Answer  : A Marian place of prayer and reflection, a replica of the grotto at Lourdes, France
+------------------------------------------------------------
+Q5: What sits on top of the Main Building at Notre Dame?
+✅ Ground Truth: a golden statue of the Virgin Mary
+🤖 LLM Answer  : A golden statue of the Virgin Mary
+------------------------------------------------------------
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+✅ Ground Truth: September 1876
+🤖 LLM Answer  : September 1876
+------------------------------------------------------------
+Q7: How often is Notre Dame's the Juggler published?
+✅ Ground Truth: twice
+🤖 LLM Answer  : Twice a year
+------------------------------------------------------------
+Q8: What is the daily student paper at Notre Dame called?
+✅ Ground Truth: The Observer
+🤖 LLM Answer  : The Observer
+------------------------------------------------------------
+Q9: How many student news papers are found at Notre Dame?
+✅ Ground Truth: three
+🤖 LLM Answer  : Nine
+------------------------------------------------------------
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+✅ Ground Truth: 1987
+🤖 LLM Answer  : 1967
+------------------------------------------------------------
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+✅ Ground Truth: Rome
+🤖 LLM Answer  : Rome
+------------------------------------------------------------
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+✅ Ground Truth: Moreau Seminary
+🤖 LLM Answer  : Moreau Seminary
+------------------------------------------------------------
+Q13: What is the oldest structure at Notre Dame?
+✅ Ground Truth: Old College
+🤖 LLM Answer  : Old College
+------------------------------------------------------------
+Q14: What individuals live at Fatima House at Notre Dame?
+✅ Ground Truth: Retired priests and brothers
+🤖 LLM Answer  : Retired priests and brothers
+------------------------------------------------------------
+Q15: Which prize did Frederick Buechner create?
+✅ Ground Truth: Buechner Prize for Preaching
+🤖 LLM Answer  : Buechner Prize for Preaching
+------------------------------------------------------------
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+✅ Ground Truth: eight
+🤖 LLM Answer  : 8
+------------------------------------------------------------
+Q17: In what year was the College of Engineering at Notre Dame formed?
+✅ Ground Truth: 1920
+🤖 LLM Answer  : 1920
+------------------------------------------------------------
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+✅ Ground Truth: the College of Science
+🤖 LLM Answer  : College of Science
+------------------------------------------------------------
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+✅ Ground Truth: five
+🤖 LLM Answer  : 12
+------------------------------------------------------------
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+✅ Ground Truth: the 1870s
+🤖 LLM Answer  : 1892
+------------------------------------------------------------
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+✅ Ground Truth: Learning Resource Center
+🤖 LLM Answer  : The First Year of Studies program
+------------------------------------------------------------
+Q22: How many colleges for undergraduates are at Notre Dame?
+✅ Ground Truth: five
+🤖 LLM Answer  : 5
+------------------------------------------------------------
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+✅ Ground Truth: The First Year of Studies program
+🤖 LLM Answer  : First Year of Studies program
+------------------------------------------------------------
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+✅ Ground Truth: U.S. News & World Report
+🤖 LLM Answer  : U.S. News & World Report
+------------------------------------------------------------
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+✅ Ground Truth: 1924
+🤖 LLM Answer  : 1854
+------------------------------------------------------------
+Q26: What type of degree is an M.Div.?
+✅ Ground Truth: Master of Divinity
+🤖 LLM Answer  : Master of Divinity
+------------------------------------------------------------
+Q27: Which program at Notre Dame offers a Master of Education degree?
+✅ Ground Truth: Alliance for Catholic Education
+🤖 LLM Answer  : Alliance for Catholic Education program
+------------------------------------------------------------
+Q28: In what year was a Master of Arts course first offered at Notre Dame?
+✅ Ground Truth: 1854
+🤖 LLM Answer  : 1854
+------------------------------------------------------------
+Q29: Which department at Notre Dame is the only one to not offer a PhD program?
+✅ Ground Truth: Department of Pre-Professional Studies
+🤖 LLM Answer  : Department of Pre-Professional Studies
+------------------------------------------------------------
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+✅ Ground Truth: Joan B. Kroc Institute for International Peace Studies
+🤖 LLM Answer  : Kroc Institute for International Peace Studies
+------------------------------------------------------------
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+✅ Ground Truth: President Emeritus of the University of Notre Dame
+🤖 LLM Answer  : Rev. Theodore M. Hesburgh CSC
+------------------------------------------------------------
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+✅ Ground Truth: 1986
+🤖 LLM Answer  : 1986
+------------------------------------------------------------
+Q33: To whom was John B. Kroc married?
+✅ Ground Truth: Ray Kroc
+🤖 LLM Answer  : Ethel Frances Harig
+------------------------------------------------------------
+Q34: What company did Ray Kroc own?
+✅ Ground Truth: McDonald's
+🤖 LLM Answer  : McDonald's
+------------------------------------------------------------
+Q35: How many stories tall is the main library at Notre Dame?
+✅ Ground Truth: 14
+🤖 LLM Answer  : 14
+------------------------------------------------------------
+Q36: What is the name of the main library at Notre Dame?
+✅ Ground Truth: Theodore M. Hesburgh Library
+🤖 LLM Answer  : Theodore M. Hesburgh Library
+------------------------------------------------------------
+Q37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+✅ Ground Truth: 1963
+🤖 LLM Answer  : 1963
+------------------------------------------------------------
+Q38: Which artist created the mural on the Theodore M. Hesburgh Library?
+✅ Ground Truth: Millard Sheets
+🤖 LLM Answer  : Millard Sheets
+------------------------------------------------------------
+Q39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+✅ Ground Truth: Touchdown Jesus
+🤖 LLM Answer  : Touchdown Jesus
+
+
+
+
+
+
+K16 Q5
+Combined Prompt:
+Length: 20766 characters, approximately 3356 tokens
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: What sits on top of the Main Building at Notre Dame?
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+Q7: How often is Notre Dame's the Juggler published?
+Q8: What is the daily student paper at Notre Dame called?
+Q9: How many student news papers are found at Notre Dame?
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+Q13: What is the oldest structure at Notre Dame?
+Q14: What individuals live at Fatima House at Notre Dame?
+Q15: Which prize did Frederick Buechner create?
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q17: In what year was the College of Engineering at Notre Dame formed?
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+Q22: How many colleges for undergraduates are at Notre Dame?
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+Q26: What type of degree is an M.Div.?
+Q27: Which program at Notre Dame offers a Master of Education degree?
+Q28: In what year was a Master of Arts course first offered at Notre Dame?
+Q29: Which department at Notre Dame is the only one to not offer a PhD program?
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+Q33: To whom was John B. Kroc married?
+Q34: What company did Ray Kroc own?
+Q35: How many stories tall is the main library at Notre Dame?
+Q36: What is the name of the main library at Notre Dame?
+Q37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+Q38: Which artist created the mural on the Theodore M. Hesburgh Library?
+Q39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+Q40: How many incoming students did Notre Dame admit in fall 2015?
+Q41: What percentage of students were admitted to Notre Dame in fall 2015?
+Q42: Where does Notre Dame rank in terms of academic profile among research universities in the US?
+Q43: What percentage of students at Notre Dame participated in the Early Action program?
+Q44: How many miles does the average student at Notre Dame travel to study there?
+Q45: Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?
+Q46: Forbes.com placed Notre Dame at what position compared to other US research universities?
+Q47: The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?
+Q48: In 2014 what entity named Notre Dame 10th best of all American universities?
+Q49: What percentage of Notre Dame students decide to study abroad?
+Q50: What person was the Director of the Science Museum at Notre Dame in the late 19th century?
+Q51: What was the lifespan of John Augustine Zahm?
+Q52: What program did John Augustine Zahm come to co-direct at Nore Dame?
+Q53: What book did John Zahm write in 1896?
+Q54: What professorship did Father Josh Carrier hold at Notre Dame?
+Q55: In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?
+Q56: Which professor sent the first wireless message in the USA?
+Q57: In what year did Jerome Green send his first wireless message?
+Q58: Which individual worked on projects at Notre Dame that eventually created neoprene?
+Q59: What did the brother of John Zahm construct at Notre Dame?
+Q60: Work on a germ-free-life ended up in the creation of which Notre Dame institute?
+Q61: Around what time did Lobund of Notre Dame become independent?
+Q62: In what year did Lobund at Notre Dame become an Institute?
+Q63: The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?
+Q64: When did study of a germ-free-life begin at Notre Dame?
+Q65: Gurian created what in 1939 at Notre Dame?
+Q66: What was the Review of Politics inspired by?
+Q67: Over how many years did Gurian edit the Review of Politics at Notre Dame?
+Q68: Thomas Stritch was an editor of which publican from Notre Dame?
+Q69: Who was the president of Notre Dame in 2012?
+Q70: The Kellogg Institute for International Studies is part of which university?
+Q71: What does the Kroc Institute at Notre Dame focus on?
+Q72: In what year did Notre Dame begin to host the Global Adaptation Index?
+Q73: What threat does the Global Adaptation Index study?
+Q74: How many undergrads were attending Notre Dame in 2014?
+Q75: What percentage of students at Notre Dame are the children of former Notre Dame students?
+Q76: How many teams participate in the Notre Dame Bookstore Basketball tournament?
+Q77: For what cause is money raised at the Bengal Bouts tournament at Notre Dame?
+Q78: How many students in total were at Notre Dame in 2014?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.
+
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.
+
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+
+The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years.
+
+The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded in 1986 through the donations of Joan B. Kroc, the widow of McDonald's owner Ray Kroc. The institute was inspired by the vision of the Rev. Theodore M. Hesburgh CSC, President Emeritus of the University of Notre Dame. The institute has contributed to international policy discussions about peace building practices.
+
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets. This mural is popularly known as "Touchdown Jesus" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown.
+
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university practices a non-restrictive early action policy that allows admitted students to consider admission to Notre Dame as well as any other colleges to which they were accepted. 1,400 of the 3,577 (39.1%) were admitted under the early action plan. Admitted students came from 1,311 high schools and the average student traveled more than 750 miles to Notre Dame, making it arguably the most representative university in the United States. While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture.
+
+In 2015-2016, Notre Dame ranked 18th overall among "national universities" in the United States in U.S. News & World Report's Best Colleges 2016. In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual. Forbes.com's America's Best Colleges ranks Notre Dame 13th among colleges in the United States in 2015, 8th among Research Universities, and 1st in the Midwest. U.S. News & World Report also lists Notre Dame Law School as 22nd overall. BusinessWeek ranks Mendoza College of Business undergraduate school as 1st overall. It ranks the MBA program as 20th overall. The Philosophical Gourmet Report ranks Notre Dame's graduate philosophy program as 15th nationally, while ARCHITECT Magazine ranked the undergraduate architecture program as 12th nationally. Additionally, the study abroad program ranks sixth in highest participation percentage in the nation, with 57.6% of students choosing to study abroad in 17 countries. According to payscale.com, undergraduate alumni of University of Notre Dame have a mid-career median salary $110,000, making it the 24th highest among colleges and universities in the United States. The median starting salary of $55,300 ranked 58th in the same peer group.
+
+Father Joseph Carrier, C.S.C. was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874. Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church. One of Carrier's students was Father John Augustine Zahm (1851–1921) who was made Professor and Co-Director of the Science Department at age 23 and by 1900 was a nationally prominent scientist and naturalist. Zahm was active in the Catholic Summer School movement, which introduced Catholic laity to contemporary intellectual issues. His book Evolution and Dogma (1896) defended certain aspects of evolutionary theory as true, and argued, moreover, that even the great Church teachers Thomas Aquinas and Augustine taught something like it. The intervention of Irish American Catholics in Rome prevented Zahm's censure by the Vatican. In 1913, Zahm and former President Theodore Roosevelt embarked on a major expedition through the Amazon.
+
+In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models. Around 1899, Professor Jerome Green became the first American to send a wireless message. In 1931, Father Julius Nieuwland performed early work on basic reactions that was used to create neoprene. Study of nuclear physics at the university began with the building of a nuclear accelerator in 1936, and continues now partly through a partnership in the Joint Institute for Nuclear Astrophysics.
+
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928. This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria. Though others had taken up this idea, their research was short lived and inconclusive. Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations. But the objective was not merely to answer Pasteur's question but also to produce the germ free animal as a new tool for biological and medical research. This objective was reached and for years Lobund was a unique center for the study and production of germ free animals and for their use in biological and medical investigations. Today the work has spread to other universities. In the beginning it was under the Department of Biology and a program leading to the master's degree accompanied the research program. In the 1940s Lobund achieved independent status as a purely research organization and in 1950 was raised to the status of an Institute. In 1958 it was brought back into the Department of Biology as integral part of that department, but with its own program leading to the degree of PhD in Gnotobiotics.
+
+The Review of Politics was founded in 1939 by Gurian, modeled after German Catholic journals. It quickly emerged as part of an international Catholic intellectual revival, offering an alternative vision to positivist philosophy. For 44 years, the Review was edited by Gurian, Matthew Fitzsimons, Frederick Crosson, and Thomas Stritch. Intellectual leaders included Gurian, Jacques Maritain, Frank O'Malley, Leo Richard Ward, F. A. Hermens, and John U. Nef. It became a major forum for political ideas and modern political concerns, especially from a Catholic and scholastic tradition.
+
+As of 2012[update] research continued in many fields. The university president, John Jenkins, described his hope that Notre Dame would become "one of the pre–eminent research institutions in the world" in his inaugural address. The university has many multi-disciplinary institutes devoted to research in varying fields, including the Medieval Institute, the Kellogg Institute for International Studies, the Kroc Institute for International Peace studies, and the Center for Social Concerns. Recent research includes work on family conflict and child development, genome mapping, the increasing trade deficit of the United States with China, studies in fluid mechanics, computational science and engineering, and marketing trends on the Internet. As of 2013, the university is home to the Notre Dame Global Adaptation Index which ranks countries annually based on how vulnerable they are to climate change and how prepared they are to adapt.
+
+In 2014 the Notre Dame student body consisted of 12,179 students, with 8,448 undergraduates, 2,138 graduate and professional and 1,593 professional (Law, M.Div., Business, M.Ed.) students. Around 21–24% of students are children of alumni, and although 37% of students come from the Midwestern United States, the student body represents all 50 states and 100 countries. As of March 2007[update] The Princeton Review ranked the school as the fifth highest 'dream school' for parents to send their children. As of March 2015[update] The Princeton Review ranked Notre Dame as the ninth highest. The school has been previously criticized for its lack of diversity, and The Princeton Review ranks the university highly among schools at which "Alternative Lifestyles [are] Not an Alternative." It has also been commended by some diversity oriented publications; Hispanic Magazine in 2004 ranked the university ninth on its list of the top–25 colleges for Latinos, and The Journal of Blacks in Higher Education recognized the university in 2006 for raising enrollment of African-American students. With 6,000 participants, the university's intramural sports program was named in 2004 by Sports Illustrated as the best program in the country, while in 2007 The Princeton Review named it as the top school where "Everyone Plays Intramural Sports." The annual Bookstore Basketball tournament is the largest outdoor five-on-five tournament in the world with over 700 teams participating each year, while the Notre Dame Men's Boxing Club hosts the annual Bengal Bouts tournament that raises money for the Holy Cross Missions in Bangladesh.
+
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_deprecation.py:131: FutureWarning: 'post' (from 'huggingface_hub.inference._client') is deprecated and will be removed from version '0.31.0'. Making direct POST requests to the inference server is not supported anymore. Please use task methods instead (e.g. `InferenceClient.chat_completion`). If your use case is not supported, please open an issue in https://github.com/huggingface/huggingface_hub.
+  warnings.warn(warning_message, FutureWarning)
+
+📤 LLM Response:
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: What sits on top of the Main Building at Notre Dame?
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+Q7: How often is Notre Dame's the Juggler published?
+Q8: What is the daily student paper at Notre Dame called?
+Q9: How many student news papers are found at Notre Dame?
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+Q13: What is the oldest structure at Notre Dame?
+Q14: What individuals live at Fatima House at Notre Dame?
+Q15: Which prize did Frederick Buechner create?
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q17: In what year was the College of Engineering at Notre Dame formed?
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+Q22: How many colleges for undergraduates are at Notre Dame?
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+Q26: What type of degree is an M.Div.?
+Q27: Which program at Notre Dame offers a Master of Education degree?
+Q28: In what year was a Master of Arts course first offered at Notre Dame?
+Q29: Which department at Notre Dame is the only one to not offer a PhD program?
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+Q33: To whom was John B. Kroc married?
+Q34: What company did Ray Kroc own?
+Q35: How many stories tall is the main library at Notre Dame?
+Q36: What is the name of the main library at Notre Dame?
+Q37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+Q38: Which artist created the mural on the Theodore M. Hesburgh Library?
+Q39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+Q40: How many incoming students did Notre Dame admit in fall 2015?
+Q41: What percentage of students were admitted to Notre Dame in fall 2015?
+Q42: Where does Notre Dame rank in terms of academic profile among research universities in the US?
+Q43: What percentage of students at Notre Dame participated in the Early Action program?
+Q44: How many miles does the average student at Notre Dame travel to study there?
+Q45: Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?
+Q46: Forbes.com placed Notre Dame at what position compared to other US research universities?
+Q47: The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?
+Q48: In 2014 what entity named Notre Dame 10th best of all American universities?
+Q49: What percentage of Notre Dame students decide to study abroad?
+Q50: What person was the Director of the Science Museum at Notre Dame in the late 19th century?
+Q51: What was the lifespan of John Augustine Zahm?
+Q52: What program did John Augustine Zahm come to co-direct at Nore Dame?
+Q53: What book did John Zahm write in 1896?
+Q54: What professorship did Father Josh Carrier hold at Notre Dame?
+Q55: In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?
+Q56: Which professor sent the first wireless message in the USA?
+Q57: In what year did Jerome Green send his first wireless message?
+Q58: Which individual worked on projects at Notre Dame that eventually created neoprene?
+Q59: What did the brother of John Zahm construct at Notre Dame?
+Q60: Work on a germ-free-life ended up in the creation of which Notre Dame institute?
+Q61: Around what time did Lobund of Notre Dame become independent?
+Q62: In what year did Lobund at Notre Dame become an Institute?
+Q63: The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?
+Q64: When did study of a germ-free-life begin at Notre Dame?
+Q65: Gurian created what in 1939 at Notre Dame?
+Q66: What was the Review of Politics inspired by?
+Q67: Over how many years did Gurian edit the Review of Politics at Notre Dame?
+Q68: Thomas Stritch was an editor of which publican from Notre Dame?
+Q69: Who was the president of Notre Dame in 2012?
+Q70: The Kellogg Institute for International Studies is part of which university?
+Q71: What does the Kroc Institute at Notre Dame focus on?
+Q72: In what year did Notre Dame begin to host the Global Adaptation Index?
+Q73: What threat does the Global Adaptation Index study?
+Q74: How many undergrads were attending Notre Dame in 2014?
+Q75: What percentage of students at Notre Dame are the children of former Notre Dame students?
+Q76: How many teams participate in the Notre Dame Bookstore Basketball tournament?
+Q77: For what cause is money raised at the Bengal Bouts tournament at Notre Dame?
+Q78: How many students in total were at Notre Dame in 2014?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.
+
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.
+
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+
+The university first offered graduate degrees, in the form of a Master of Arts (MA), in the 1854–1855 academic year. The program expanded to include Master of Laws (LL.M.) and Master of Civil Engineering in its early stages of growth, before a formal graduate school education was developed with a thesis not required to receive the degrees. This changed in 1924 with formal requirements developed for graduate degrees, including offering Doctorate (PhD) degrees. Today each of the five colleges offer graduate education. Most of the departments from the College of Arts and Letters offer PhD programs, while a professional Master of Divinity (M.Div.) program also exists. All of the departments in the College of Science offer PhD programs, except for the Department of Pre-Professional Studies. The School of Architecture offers a Master of Architecture, while each of the departments of the College of Engineering offer PhD programs. The College of Business offers multiple professional programs including MBA and Master of Science in Accountancy programs. It also operates facilities in Chicago and Cincinnati for its executive MBA program. Additionally, the Alliance for Catholic Education program offers a Master of Education program where students study at the university during the summer and teach in Catholic elementary schools, middle schools, and high schools across the Southern United States for two school years.
+
+The Joan B. Kroc Institute for International Peace Studies at the University of Notre Dame is dedicated to research, education and outreach on the causes of violent conflict and the conditions for sustainable peace. It offers PhD, Master's, and undergraduate degrees in peace studies. It was founded in 1986 through the donations of Joan B. Kroc, the widow of McDonald's owner Ray Kroc. The institute was inspired by the vision of the Rev. Theodore M. Hesburgh CSC, President Emeritus of the University of Notre Dame. The institute has contributed to international policy discussions about peace building practices.
+
+The library system of the university is divided between the main library and each of the colleges and schools. The main building is the 14-story Theodore M. Hesburgh Library, completed in 1963, which is the third building to house the main collection of books. The front of the library is adorned with the Word of Life mural designed by artist Millard Sheets. This mural is popularly known as "Touchdown Jesus" because of its proximity to Notre Dame Stadium and Jesus' arms appearing to make the signal for a touchdown.
+
+Notre Dame is known for its competitive admissions, with the incoming class enrolling in fall 2015 admitting 3,577 from a pool of 18,156 (19.7%). The academic profile of the enrolled class continues to rate among the top 10 to 15 in the nation for national research universities. The university practices a non-restrictive early action policy that allows admitted students to consider admission to Notre Dame as well as any other colleges to which they were accepted. 1,400 of the 3,577 (39.1%) were admitted under the early action plan. Admitted students came from 1,311 high schools and the average student traveled more than 750 miles to Notre Dame, making it arguably the most representative university in the United States. While all entering students begin in the College of the First Year of Studies, 25% have indicated they plan to study in the liberal arts or social sciences, 24% in engineering, 24% in business, 24% in science, and 3% in architecture.
+
+In 2015-2016, Notre Dame ranked 18th overall among "national universities" in the United States in U.S. News & World Report's Best Colleges 2016. In 2014, USA Today ranked Notre Dame 10th overall for American universities based on data from College Factual. Forbes.com's America's Best Colleges ranks Notre Dame 13th among colleges in the United States in 2015, 8th among Research Universities, and 1st in the Midwest. U.S. News & World Report also lists Notre Dame Law School as 22nd overall. BusinessWeek ranks Mendoza College of Business undergraduate school as 1st overall. It ranks the MBA program as 20th overall. The Philosophical Gourmet Report ranks Notre Dame's graduate philosophy program as 15th nationally, while ARCHITECT Magazine ranked the undergraduate architecture program as 12th nationally. Additionally, the study abroad program ranks sixth in highest participation percentage in the nation, with 57.6% of students choosing to study abroad in 17 countries. According to payscale.com, undergraduate alumni of University of Notre Dame have a mid-career median salary $110,000, making it the 24th highest among colleges and universities in the United States. The median starting salary of $55,300 ranked 58th in the same peer group.
+
+Father Joseph Carrier, C.S.C. was Director of the Science Museum and the Library and Professor of Chemistry and Physics until 1874. Carrier taught that scientific research and its promise for progress were not antagonistic to the ideals of intellectual and moral culture endorsed by the Church. One of Carrier's students was Father John Augustine Zahm (1851–1921) who was made Professor and Co-Director of the Science Department at age 23 and by 1900 was a nationally prominent scientist and naturalist. Zahm was active in the Catholic Summer School movement, which introduced Catholic laity to contemporary intellectual issues. His book Evolution and Dogma (1896) defended certain aspects of evolutionary theory as true, and argued, moreover, that even the great Church teachers Thomas Aquinas and Augustine taught something like it. The intervention of Irish American Catholics in Rome prevented Zahm's censure by the Vatican. In 1913, Zahm and former President Theodore Roosevelt embarked on a major expedition through the Amazon.
+
+In 1882, Albert Zahm (John Zahm's brother) built an early wind tunnel used to compare lift to drag of aeronautical models. Around 1899, Professor Jerome Green became the first American to send a wireless message. In 1931, Father Julius Nieuwland performed early work on basic reactions that was used to create neoprene. Study of nuclear physics at the university began with the building of a nuclear accelerator in 1936, and continues now partly through a partnership in the Joint Institute for Nuclear Astrophysics.
+
+The Lobund Institute grew out of pioneering research in germ-free-life which began in 1928. This area of research originated in a question posed by Pasteur as to whether animal life was possible without bacteria. Though others had taken up this idea, their research was short lived and inconclusive. Lobund was the first research organization to answer definitively, that such life is possible and that it can be prolonged through generations. But the objective was not merely to answer Pasteur's question but also to produce the germ free animal as a new tool for biological and medical research. This objective was reached and for years Lobund was a unique center for the study and production of germ free animals and for their use in biological and medical investigations. Today the work has spread to other universities. In the beginning it was under the Department of Biology and a program leading to the master's degree accompanied the research program. In the 1940s Lobund achieved independent status as a purely research organization and in 1950 was raised to the status of an Institute. In 1958 it was brought back into the Department of Biology as integral part of that department, but with its own program leading to the degree of PhD in Gnotobiotics.
+
+The Review of Politics was founded in 1939 by Gurian, modeled after German Catholic journals. It quickly emerged as part of an international Catholic intellectual revival, offering an alternative vision to positivist philosophy. For 44 years, the Review was edited by Gurian, Matthew Fitzsimons, Frederick Crosson, and Thomas Stritch. Intellectual leaders included Gurian, Jacques Maritain, Frank O'Malley, Leo Richard Ward, F. A. Hermens, and John U. Nef. It became a major forum for political ideas and modern political concerns, especially from a Catholic and scholastic tradition.
+
+As of 2012[update] research continued in many fields. The university president, John Jenkins, described his hope that Notre Dame would become "one of the pre–eminent research institutions in the world" in his inaugural address. The university has many multi-disciplinary institutes devoted to research in varying fields, including the Medieval Institute, the Kellogg Institute for International Studies, the Kroc Institute for International Peace studies, and the Center for Social Concerns. Recent research includes work on family conflict and child development, genome mapping, the increasing trade deficit of the United States with China, studies in fluid mechanics, computational science and engineering, and marketing trends on the Internet. As of 2013, the university is home to the Notre Dame Global Adaptation Index which ranks countries annually based on how vulnerable they are to climate change and how prepared they are to adapt.
+
+In 2014 the Notre Dame student body consisted of 12,179 students, with 8,448 undergraduates, 2,138 graduate and professional and 1,593 professional (Law, M.Div., Business, M.Ed.) students. Around 21–24% of students are children of alumni, and although 37% of students come from the Midwestern United States, the student body represents all 50 states and 100 countries. As of March 2007[update] The Princeton Review ranked the school as the fifth highest 'dream school' for parents to send their children. As of March 2015[update] The Princeton Review ranked Notre Dame as the ninth highest. The school has been previously criticized for its lack of diversity, and The Princeton Review ranks the university highly among schools at which "Alternative Lifestyles [are] Not an Alternative." It has also been commended by some diversity oriented publications; Hispanic Magazine in 2004 ranked the university ninth on its list of the top–25 colleges for Latinos, and The Journal of Blacks in Higher Education recognized the university in 2006 for raising enrollment of African-American students. With 6,000 participants, the university's intramural sports program was named in 2004 by Sports Illustrated as the best program in the country, while in 2007 The Princeton Review named it as the top school where "Everyone Plays Intramural Sports." The annual Bookstore Basketball tournament is the largest outdoor five-on-five tournament in the world with over 700 teams participating each year, while the Notre Dame Men's Boxing Club hosts the annual Bengal Bouts tournament that raises money for the Holy Cross Missions in Bangladesh.
+
+A1: Bernadette Soubirous
+A2: A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes"
+A3: Basilica of the Sacred Heart
+A4: A replica of the grotto at Lourdes, France
+A5: A golden statue of the Virgin Mary
+A6: September 1876
+A7: Twice a year
+A8: The Observer
+A9: Three
+A10: 1887
+A11: Rome
+A12: Moreau Seminary
+A13: Old College
+A14: Retired priests and brothers
+A15: The Buechner Prize for Preaching
+A16: 8
+A17: 1920
+A18: College of Science
+A19: 10
+A20: 1892
+A21: the First Year of Studies program
+A22: 5
+A23: the First Year of Studies program
+A24: U.S. News & World Report
+A25: 1873
+A26: Master of Divinity
+A27: Alliance for Catholic Education program
+A28: 1874
+A29: Department of Pre-Professional Studies
+A30: Kroc Institute for International Peace Studies
+A31: Theodore Hesburgh
+A32: 1986
+A33: Evelyn Beatrice Tufts
+A34: McDonald's
+A35: 14 stories
+A36: Hesburgh Library
+A37: 1963
+A38: Millard Sheets
+A39: Touchdown Jesus
+A40: 8,306
+A41: 19.7%
+A42: 18th
+A43: 39.1%
+A44: More than 750 miles
+A45: 15th
+A46: 13th
+A47: 1st
+A48: 10th
+A49: 57.6%
+A50: John Augustine Zahm
+A51: 1921
+A52: Science Department
+A53: Evolution and Dogma
+A54: Professor of Theology
+A55: 1882
+A56: Jerome Green
+A57: 1913
+A58: Father Julius Nieuwland
+A59: St. Joseph's Lake
+A60: The Center for Nanostructured Materials
+A61: Around 1961
+A62: 1962
+A63: 1972
+A64: 1928
+A65: the Center for the Study of the American Experiment
+A66: the Catholic intellectual revival
+A67: 44 years
+A68: The Review of Politics
+A69: John Jenkins
+A70: University of Notre Dame
+A71: International peace studies
+A72: 2008
+A73: Climate change
+A74: 8,448
+A75: 21–24%
+A76: 700
+A77: The Holy Cross Missions in Bangladesh
+A78: 12,179
+A79: Not specified
+A80: Not specified
+A81: Not specified
+A82: Not specified
+A83: Not specified
+A84: Not specified
+A85: Not specified
+A86: Not specified
+A87: Not specified
+A88: Not specified
+A89: Not specified
+A90: Not specified
+A91: Not specified
+A92: Not specified
+A93: Not specified
+A94: Not specified
+A95: Not specified
+A96: Not specified
+A97: Not specified
+A98: Not specified
+A99: Not specified
+A100: Not specified
+============================================================
+
+🔍 Side-by-Side Comparison:
+
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+✅ Ground Truth: Saint Bernadette Soubirous
+🤖 LLM Answer  : Bernadette Soubirous
+------------------------------------------------------------
+Q2: What is in front of the Notre Dame Main Building?
+✅ Ground Truth: a copper statue of Christ
+🤖 LLM Answer  : A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes"
+------------------------------------------------------------
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+✅ Ground Truth: the Main Building
+🤖 LLM Answer  : Basilica of the Sacred Heart
+------------------------------------------------------------
+Q4: What is the Grotto at Notre Dame?
+✅ Ground Truth: a Marian place of prayer and reflection
+🤖 LLM Answer  : A replica of the grotto at Lourdes, France
+------------------------------------------------------------
+Q5: What sits on top of the Main Building at Notre Dame?
+✅ Ground Truth: a golden statue of the Virgin Mary
+🤖 LLM Answer  : A golden statue of the Virgin Mary
+------------------------------------------------------------
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+✅ Ground Truth: September 1876
+🤖 LLM Answer  : September 1876
+------------------------------------------------------------
+Q7: How often is Notre Dame's the Juggler published?
+✅ Ground Truth: twice
+🤖 LLM Answer  : Twice a year
+------------------------------------------------------------
+Q8: What is the daily student paper at Notre Dame called?
+✅ Ground Truth: The Observer
+🤖 LLM Answer  : The Observer
+------------------------------------------------------------
+Q9: How many student news papers are found at Notre Dame?
+✅ Ground Truth: three
+🤖 LLM Answer  : Three
+------------------------------------------------------------
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+✅ Ground Truth: 1987
+🤖 LLM Answer  : 1887
+------------------------------------------------------------
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+✅ Ground Truth: Rome
+🤖 LLM Answer  : Rome
+------------------------------------------------------------
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+✅ Ground Truth: Moreau Seminary
+🤖 LLM Answer  : Moreau Seminary
+------------------------------------------------------------
+Q13: What is the oldest structure at Notre Dame?
+✅ Ground Truth: Old College
+🤖 LLM Answer  : Old College
+------------------------------------------------------------
+Q14: What individuals live at Fatima House at Notre Dame?
+✅ Ground Truth: Retired priests and brothers
+🤖 LLM Answer  : Retired priests and brothers
+------------------------------------------------------------
+Q15: Which prize did Frederick Buechner create?
+✅ Ground Truth: Buechner Prize for Preaching
+🤖 LLM Answer  : The Buechner Prize for Preaching
+------------------------------------------------------------
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+✅ Ground Truth: eight
+🤖 LLM Answer  : 8
+------------------------------------------------------------
+Q17: In what year was the College of Engineering at Notre Dame formed?
+✅ Ground Truth: 1920
+🤖 LLM Answer  : 1920
+------------------------------------------------------------
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+✅ Ground Truth: the College of Science
+🤖 LLM Answer  : College of Science
+------------------------------------------------------------
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+✅ Ground Truth: five
+🤖 LLM Answer  : 10
+------------------------------------------------------------
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+✅ Ground Truth: the 1870s
+🤖 LLM Answer  : 1892
+------------------------------------------------------------
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+✅ Ground Truth: Learning Resource Center
+🤖 LLM Answer  : the First Year of Studies program
+------------------------------------------------------------
+Q22: How many colleges for undergraduates are at Notre Dame?
+✅ Ground Truth: five
+🤖 LLM Answer  : 5
+------------------------------------------------------------
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+✅ Ground Truth: The First Year of Studies program
+🤖 LLM Answer  : the First Year of Studies program
+------------------------------------------------------------
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+✅ Ground Truth: U.S. News & World Report
+🤖 LLM Answer  : U.S. News & World Report
+------------------------------------------------------------
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+✅ Ground Truth: 1924
+🤖 LLM Answer  : 1873
+------------------------------------------------------------
+Q26: What type of degree is an M.Div.?
+✅ Ground Truth: Master of Divinity
+🤖 LLM Answer  : Master of Divinity
+------------------------------------------------------------
+Q27: Which program at Notre Dame offers a Master of Education degree?
+✅ Ground Truth: Alliance for Catholic Education
+🤖 LLM Answer  : Alliance for Catholic Education program
+------------------------------------------------------------
+Q28: In what year was a Master of Arts course first offered at Notre Dame?
+✅ Ground Truth: 1854
+🤖 LLM Answer  : 1874
+------------------------------------------------------------
+Q29: Which department at Notre Dame is the only one to not offer a PhD program?
+✅ Ground Truth: Department of Pre-Professional Studies
+🤖 LLM Answer  : Department of Pre-Professional Studies
+------------------------------------------------------------
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+✅ Ground Truth: Joan B. Kroc Institute for International Peace Studies
+🤖 LLM Answer  : Kroc Institute for International Peace Studies
+------------------------------------------------------------
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+✅ Ground Truth: President Emeritus of the University of Notre Dame
+🤖 LLM Answer  : Theodore Hesburgh
+------------------------------------------------------------
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+✅ Ground Truth: 1986
+🤖 LLM Answer  : 1986
+------------------------------------------------------------
+Q33: To whom was John B. Kroc married?
+✅ Ground Truth: Ray Kroc
+🤖 LLM Answer  : Evelyn Beatrice Tufts
+------------------------------------------------------------
+Q34: What company did Ray Kroc own?
+✅ Ground Truth: McDonald's
+🤖 LLM Answer  : McDonald's
+------------------------------------------------------------
+Q35: How many stories tall is the main library at Notre Dame?
+✅ Ground Truth: 14
+🤖 LLM Answer  : 14 stories
+------------------------------------------------------------
+Q36: What is the name of the main library at Notre Dame?
+✅ Ground Truth: Theodore M. Hesburgh Library
+🤖 LLM Answer  : Hesburgh Library
+------------------------------------------------------------
+Q37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+✅ Ground Truth: 1963
+🤖 LLM Answer  : 1963
+------------------------------------------------------------
+Q38: Which artist created the mural on the Theodore M. Hesburgh Library?
+✅ Ground Truth: Millard Sheets
+🤖 LLM Answer  : Millard Sheets
+------------------------------------------------------------
+Q39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+✅ Ground Truth: Touchdown Jesus
+🤖 LLM Answer  : Touchdown Jesus
+------------------------------------------------------------
+Q40: How many incoming students did Notre Dame admit in fall 2015?
+✅ Ground Truth: 3,577
+🤖 LLM Answer  : 8,306
+------------------------------------------------------------
+Q41: What percentage of students were admitted to Notre Dame in fall 2015?
+✅ Ground Truth: 19.7%
+🤖 LLM Answer  : 19.7%
+------------------------------------------------------------
+Q42: Where does Notre Dame rank in terms of academic profile among research universities in the US?
+✅ Ground Truth: the top 10 to 15 in the nation
+🤖 LLM Answer  : 18th
+------------------------------------------------------------
+Q43: What percentage of students at Notre Dame participated in the Early Action program?
+✅ Ground Truth: 39.1%
+🤖 LLM Answer  : 39.1%
+------------------------------------------------------------
+Q44: How many miles does the average student at Notre Dame travel to study there?
+✅ Ground Truth: more than 750 miles
+🤖 LLM Answer  : More than 750 miles
+------------------------------------------------------------
+Q45: Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?
+✅ Ground Truth: 18th overall
+🤖 LLM Answer  : 15th
+------------------------------------------------------------
+Q46: Forbes.com placed Notre Dame at what position compared to other US research universities?
+✅ Ground Truth: 8th
+🤖 LLM Answer  : 13th
+------------------------------------------------------------
+Q47: The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?
+✅ Ground Truth: 1st overall
+🤖 LLM Answer  : 1st
+------------------------------------------------------------
+Q48: In 2014 what entity named Notre Dame 10th best of all American universities?
+✅ Ground Truth: USA Today
+🤖 LLM Answer  : 10th
+------------------------------------------------------------
+Q49: What percentage of Notre Dame students decide to study abroad?
+✅ Ground Truth: 57.6%
+🤖 LLM Answer  : 57.6%
+------------------------------------------------------------
+Q50: What person was the Director of the Science Museum at Notre Dame in the late 19th century?
+✅ Ground Truth: Father Joseph Carrier, C.S.C.
+🤖 LLM Answer  : John Augustine Zahm
+------------------------------------------------------------
+Q51: What was the lifespan of John Augustine Zahm?
+✅ Ground Truth: 1851–1921
+🤖 LLM Answer  : 1921
+------------------------------------------------------------
+Q52: What program did John Augustine Zahm come to co-direct at Nore Dame?
+✅ Ground Truth: the Science Department
+🤖 LLM Answer  : Science Department
+------------------------------------------------------------
+Q53: What book did John Zahm write in 1896?
+✅ Ground Truth: Evolution and Dogma
+🤖 LLM Answer  : Evolution and Dogma
+------------------------------------------------------------
+Q54: What professorship did Father Josh Carrier hold at Notre Dame?
+✅ Ground Truth: Professor of Chemistry and Physics
+🤖 LLM Answer  : Professor of Theology
+------------------------------------------------------------
+Q55: In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?
+✅ Ground Truth: 1882
+🤖 LLM Answer  : 1882
+------------------------------------------------------------
+Q56: Which professor sent the first wireless message in the USA?
+✅ Ground Truth: Professor Jerome Green
+🤖 LLM Answer  : Jerome Green
+------------------------------------------------------------
+Q57: In what year did Jerome Green send his first wireless message?
+✅ Ground Truth: Around 1899
+🤖 LLM Answer  : 1913
+------------------------------------------------------------
+Q58: Which individual worked on projects at Notre Dame that eventually created neoprene?
+✅ Ground Truth: Father Julius Nieuwland
+🤖 LLM Answer  : Father Julius Nieuwland
+------------------------------------------------------------
+Q59: What did the brother of John Zahm construct at Notre Dame?
+✅ Ground Truth: an early wind tunnel
+🤖 LLM Answer  : St. Joseph's Lake
+------------------------------------------------------------
+Q60: Work on a germ-free-life ended up in the creation of which Notre Dame institute?
+✅ Ground Truth: The Lobund Institute
+🤖 LLM Answer  : The Center for Nanostructured Materials
+------------------------------------------------------------
+Q61: Around what time did Lobund of Notre Dame become independent?
+✅ Ground Truth: the 1940s
+🤖 LLM Answer  : Around 1961
+------------------------------------------------------------
+Q62: In what year did Lobund at Notre Dame become an Institute?
+✅ Ground Truth: 1950
+🤖 LLM Answer  : 1962
+------------------------------------------------------------
+Q63: The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?
+✅ Ground Truth: 1958
+🤖 LLM Answer  : 1972
+------------------------------------------------------------
+Q64: When did study of a germ-free-life begin at Notre Dame?
+✅ Ground Truth: 1928
+🤖 LLM Answer  : 1928
+------------------------------------------------------------
+Q65: Gurian created what in 1939 at Notre Dame?
+✅ Ground Truth: The Review of Politics
+🤖 LLM Answer  : the Center for the Study of the American Experiment
+------------------------------------------------------------
+Q66: What was the Review of Politics inspired by?
+✅ Ground Truth: German Catholic journals
+🤖 LLM Answer  : the Catholic intellectual revival
+------------------------------------------------------------
+Q67: Over how many years did Gurian edit the Review of Politics at Notre Dame?
+✅ Ground Truth: 44
+🤖 LLM Answer  : 44 years
+------------------------------------------------------------
+Q68: Thomas Stritch was an editor of which publican from Notre Dame?
+✅ Ground Truth: Review of Politics
+🤖 LLM Answer  : The Review of Politics
+------------------------------------------------------------
+Q69: Who was the president of Notre Dame in 2012?
+✅ Ground Truth: John Jenkins
+🤖 LLM Answer  : John Jenkins
+------------------------------------------------------------
+Q70: The Kellogg Institute for International Studies is part of which university?
+✅ Ground Truth: Notre Dame
+🤖 LLM Answer  : University of Notre Dame
+------------------------------------------------------------
+Q71: What does the Kroc Institute at Notre Dame focus on?
+✅ Ground Truth: International Peace studies
+🤖 LLM Answer  : International peace studies
+------------------------------------------------------------
