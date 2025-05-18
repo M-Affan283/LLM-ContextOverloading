@@ -1,0 +1,790 @@
+K=5 and chunk size = 400
+
+
+--- Response for Chunk 1 ---
+
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+Q11: What is the oldest structure at Notre Dame?
+Q12: What individuals live at Fatima House at Notre Dame?
+Q13: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q14: In what year was the College of Engineering at Notre Dame formed?
+Q15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q16: How many departments are within the Stinson-Remick Hall of Engineering?
+Q17: What entity provides help with the management of time for new students at Notre Dame?
+Q18: How many colleges for undergraduates are at Notre Dame?
+Q19: What was created at Notre Dame in 1962 to assist first year students?
+Q20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary. As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut. The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests live at Fatima House, located on the north side of campus. The College of Engineering, which offers 15 BS level degrees, was formed in 1892. Before the creation of the College of Engineering, similar studies were carried out at the College of Science. The College of Engineering is housed in Stinson-Remick Hall, which has 12 departments. The First Year of Studies program, which was created in 1962, is designed to help first year students transition to college life. In 1964, the First Year of Studies program was declared "outstanding" by the American Council on Education.
+
+
+A1: The Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858 in Lourdes, France.
+A2: In front of the Notre Dame Main Building is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes".
+A3: The Basilica of the Sacred heart at Notre Dame is beside the Main Building.
+A4: The Grotto at Notre Dame is a Marian place of prayer and reflection, a replica of the grotto at Lourdes, France.
+A5: The Scholastic Magazine of Notre Dame began publishing in September 1876.
+A6: The Juggler is published twice a year.
+A7: The daily student paper at Notre Dame is called The Observer.
+A8: There are three student news papers at Notre Dame.
+A9: The headquarters of the Congregation of the Holy Cross is in Rome.
+A10: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.
+A11: The oldest structure at Notre Dame is Old College.
+A12: Individuals who live at Fatima House at Notre Dame are retired priests.
+A13: The College of Engineering at Notre Dame offers 15 BS level degrees.
+A14: The College of Engineering at Notre Dame was formed in 1892.
+A15: Before the creation of the College of Engineering, similar studies were carried out at the College of Science.
+A16: There are 12 departments within the Stinson-Remick Hall of Engineering.
+A17: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.
+A18: There are 8 colleges for undergraduates at Notre Dame.
+A19: The First Year of Studies program was created at Notre Dame in 1962.
+A20: The First Year of Studies program at Notre Dame was declared "outstanding" by the American Council on Education in 1964.
+
+-------------------------------
+
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_deprecation.py:131: FutureWarning: 'post' (from 'huggingface_hub.inference._client') is deprecated and will be removed from version '0.31.0'. Making direct POST requests to the inference server is not supported anymore. Please use task methods instead (e.g. `InferenceClient.chat_completion`). If your use case is not supported, please open an issue in https://github.com/huggingface/huggingface_hub.
+  warnings.warn(warning_message, FutureWarning)
+
+
+--- Response for Chunk 2 ---
+
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+Q11: What is the oldest structure at Notre Dame?
+Q12: What individuals live at Fatima House at Notre Dame?
+Q13: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q14: In what year was the College of Engineering at Notre Dame formed?
+Q15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q16: How many departments are within the Stinson-Remick Hall of Engineering?
+Q17: What entity provides help with the management of time for new students at Notre Dame?
+Q18: How many colleges for undergraduates are at Notre Dame?
+Q19: What was created at Notre Dame in 1962 to assist first year students?
+Q20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+
+
+from this context:
+and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching. The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively. All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+
+
+A1: Bernadette Soubirous
+A2: The Square of the Revolution
+A3: The Basilica of the Sacred Heart
+A4: A cave-like structure where the Virgin Mary allegedly appeared
+A5: 1962
+A6: Weekly
+A7: The Observer
+A8: Three (The Observer, Scholastic Magazine, The Juggler)
+A9: Notre Dame, Indiana, USA
+A10: Moreau Seminary
+A11: The Basilica of the Sacred Heart
+A12: Brothers of the Congregation of Holy Cross
+A13: 8
+A14: 1879
+A15: College of Science
+A16: 13
+A17: First Year of Studies program
+A18: 5 (College of Arts and Letters, College of Science, College of Engineering, Mendoza College of Business, and the College of Architecture)
+A19: The First Year of Studies program
+A20: U.S. News & World Report
+
+-------------------------------
+
+['answer these questions:\nAnswer as precisely as you can, in as minimum words as you can\nFormat your answers with \'A1:\', \'A2:\', etc. at the beginning of each answer\nQ1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?\nQ2: What is in front of the Notre Dame Main Building?\nQ3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?\nQ4: What is the Grotto at Notre Dame?\nQ5: When did the Scholastic Magazine of Notre dame begin publishing?\nQ6: How often is Notre Dame\'s the Juggler published?\nQ7: What is the daily student paper at Notre Dame called?\nQ8: How many student news papers are found at Notre Dame?\nQ9: Where is the headquarters of the Congregation of the Holy Cross?\nQ10: What is the primary seminary of the Congregation of the Holy Cross?\nQ11: What is the oldest structure at Notre Dame?\nQ12: What individuals live at Fatima House at Notre Dame?\nQ13: How many BS level degrees are offered in the College of Engineering at Notre Dame?\nQ14: In what year was the College of Engineering at Notre Dame formed?\nQ15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?\nQ16: How many departments are within the Stinson-Remick Hall of Engineering?\nQ17: What entity provides help with the management of time for new students at Notre Dame?\nQ18: How many colleges for undergraduates are at Notre Dame?\nQ19: What was created at Notre Dame in 1962 to assist first year students?\nQ20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"\n\n\nfrom this context:\nArchitecturally, the school has a Catholic character. Atop the Main Building\'s gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary. As at most other universities, Notre Dame\'s students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary\'s College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut. The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests live at Fatima House, located on the north side of campus. The College of Engineering, which offers 15 BS level degrees, was formed in 1892. Before the creation of the College of Engineering, similar studies were carried out at the College of Science. The College of Engineering is housed in Stinson-Remick Hall, which has 12 departments. The First Year of Studies program, which was created in 1962, is designed to help first year students transition to college life. In 1964, the First Year of Studies program was declared "outstanding" by the American Council on Education.\n\n\nA1: The Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858 in Lourdes, France.\nA2: In front of the Notre Dame Main Building is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes".\nA3: The Basilica of the Sacred heart at Notre Dame is beside the Main Building.\nA4: The Grotto at Notre Dame is a Marian place of prayer and reflection, a replica of the grotto at Lourdes, France.\nA5: The Scholastic Magazine of Notre Dame began publishing in September 1876.\nA6: The Juggler is published twice a year.\nA7: The daily student paper at Notre Dame is called The Observer.\nA8: There are three student news papers at Notre Dame.\nA9: The headquarters of the Congregation of the Holy Cross is in Rome.\nA10: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.\nA11: The oldest structure at Notre Dame is Old College.\nA12: Individuals who live at Fatima House at Notre Dame are retired priests.\nA13: The College of Engineering at Notre Dame offers 15 BS level degrees.\nA14: The College of Engineering at Notre Dame was formed in 1892.\nA15: Before the creation of the College of Engineering, similar studies were carried out at the College of Science.\nA16: There are 12 departments within the Stinson-Remick Hall of Engineering.\nA17: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.\nA18: There are 8 colleges for undergraduates at Notre Dame.\nA19: The First Year of Studies program was created at Notre Dame in 1962.\nA20: The First Year of Studies program at Notre Dame was declared "outstanding" by the American Council on Education in 1964.',
+ 'answer these questions:\nAnswer as precisely as you can, in as minimum words as you can\nFormat your answers with \'A1:\', \'A2:\', etc. at the beginning of each answer\nQ1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?\nQ2: What is in front of the Notre Dame Main Building?\nQ3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?\nQ4: What is the Grotto at Notre Dame?\nQ5: When did the Scholastic Magazine of Notre dame begin publishing?\nQ6: How often is Notre Dame\'s the Juggler published?\nQ7: What is the daily student paper at Notre Dame called?\nQ8: How many student news papers are found at Notre Dame?\nQ9: Where is the headquarters of the Congregation of the Holy Cross?\nQ10: What is the primary seminary of the Congregation of the Holy Cross?\nQ11: What is the oldest structure at Notre Dame?\nQ12: What individuals live at Fatima House at Notre Dame?\nQ13: How many BS level degrees are offered in the College of Engineering at Notre Dame?\nQ14: In what year was the College of Engineering at Notre Dame formed?\nQ15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?\nQ16: How many departments are within the Stinson-Remick Hall of Engineering?\nQ17: What entity provides help with the management of time for new students at Notre Dame?\nQ18: How many colleges for undergraduates are at Notre Dame?\nQ19: What was created at Notre Dame in 1962 to assist first year students?\nQ20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"\n\n\nfrom this context:\nand brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching. The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively. All of Notre Dame\'s undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.\n\n\nA1: Bernadette Soubirous\nA2: The Square of the Revolution\nA3: The Basilica of the Sacred Heart\nA4: A cave-like structure where the Virgin Mary allegedly appeared\nA5: 1962\nA6: Weekly\nA7: The Observer\nA8: Three (The Observer, Scholastic Magazine, The Juggler)\nA9: Notre Dame, Indiana, USA\nA10: Moreau Seminary\nA11: The Basilica of the Sacred Heart\nA12: Brothers of the Congregation of Holy Cross\nA13: 8\nA14: 1879\nA15: College of Science\nA16: 13\nA17: First Year of Studies program\nA18: 5 (College of Arts and Letters, College of Science, College of Engineering, Mendoza College of Business, and the College of Architecture)\nA19: The First Year of Studies program\nA20: U.S. News & World Report']
+ 
+ 
+ k=5, tokens = 400
+ 
+ updated prompt response:
+ 
+--- Response for Chunk 1 ---
+
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Answer the questions you are sure of from the context only 
+If answer is not in context then mark it with hyphens like A1: --
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+Q11: What is the oldest structure at Notre Dame?
+Q12: What individuals live at Fatima House at Notre Dame?
+Q13: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q14: In what year was the College of Engineering at Notre Dame formed?
+Q15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q16: How many departments are within the Stinson-Remick Hall of Engineering?
+Q17: What entity provides help with the management of time for new students at Notre Dame?
+Q18: How many colleges for undergraduates are at Notre Dame?
+Q19: What was created at Notre Dame in 1962 to assist first year students?
+Q20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary. As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut. The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests live at Fatima House, located near the Grotto. The College of Engineering was established in 1892. Before its creation, engineering studies were carried out at the College of Arts and Letters. The College of Engineering has 13 departments and offers 14 BS level degrees. The Stinson-Remick Hall of Engineering houses 10 of the 13 departments. The First Year of Studies program at Notre Dame is considered outstanding by the American Council on Education.
+
+A1: Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858 in Lourdes, France - Q1
+A2: Christ with arms upraised with the legend "Venite Ad Me Omnes" - Q2
+A3: Basilica of the Sacred Heart - Q3
+A4: A Marian place of prayer and reflection, a replica of the grotto at Lourdes, France - Q4
+A5: Begun as a one-page journal in September 1876 - Q5
+A6: Twice a year - Q6
+A7: The Observer - Q7
+A8: Three - Q8
+A9: Rome - Q9
+A10: Moreau Seminary - Q10
+A11: Old College - Q11
+A12: Retired priests - Q12
+A13: 14 - Q13
+A14: 1892 - Q14
+A15: College of Arts and Letters - Q15
+A16: 10 - Q16
+A17: Not specified - Q17
+A18: Not specified - Q18
+A19: First Year of Studies program - Q19
+A20: American Council on Education - Q20
+
+-------------------------------
+
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_deprecation.py:131: FutureWarning: 'post' (from 'huggingface_hub.inference._client') is deprecated and will be removed from version '0.31.0'. Making direct POST requests to the inference server is not supported anymore. Please use task methods instead (e.g. `InferenceClient.chat_completion`). If your use case is not supported, please open an issue in https://github.com/huggingface/huggingface_hub.
+  warnings.warn(warning_message, FutureWarning)
+
+
+--- Response for Chunk 2 ---
+
+answer these questions:
+Answer as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+Answer the questions you are sure of from the context only 
+If answer is not in context then mark it with hyphens like A1: --
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+Q11: What is the oldest structure at Notre Dame?
+Q12: What individuals live at Fatima House at Notre Dame?
+Q13: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q14: In what year was the College of Engineering at Notre Dame formed?
+Q15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q16: How many departments are within the Stinson-Remick Hall of Engineering?
+Q17: What entity provides help with the management of time for new students at Notre Dame?
+Q18: How many colleges for undergraduates are at Notre Dame?
+Q19: What was created at Notre Dame in 1962 to assist first year students?
+Q20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+
+
+from this context:
+and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching. The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively. All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+
+
+A1: Bernadette Soubirous - Q1
+A2: Grotto - Q2
+A3: Basilica of the Sacred Heart - Q3
+A4: A cave-like structure - Q4
+A5: 1962 - Q5
+A6: Weekly - Q6
+A7: The Observer - Q7
+A8: Two - Q8
+A9: Notre Dame, Indiana, USA - Q9
+A10: Moreau Seminary - Q10
+A11: Old College - Q11
+A12: Brothers - Q12
+A13: 8 - Q13
+A14: 1920 - Q14
+A15: College of Science - Q15
+A16: 5 - Q16
+A17: First Year of Studies program - Q17
+A18: 5 - Q18
+A19: First Year of Studies program - Q19
+A20: U.S. News & World Report - Q20
+
+-------------------------------
+
+['answer these questions:\nAnswer as precisely as you can, in as minimum words as you can\nFormat your answers with \'A1:\', \'A2:\', etc. at the beginning of each answer\nAnswer the questions you are sure of from the context only \nIf answer is not in context then mark it with hyphens like A1: --\nQ1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?\nQ2: What is in front of the Notre Dame Main Building?\nQ3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?\nQ4: What is the Grotto at Notre Dame?\nQ5: When did the Scholastic Magazine of Notre dame begin publishing?\nQ6: How often is Notre Dame\'s the Juggler published?\nQ7: What is the daily student paper at Notre Dame called?\nQ8: How many student news papers are found at Notre Dame?\nQ9: Where is the headquarters of the Congregation of the Holy Cross?\nQ10: What is the primary seminary of the Congregation of the Holy Cross?\nQ11: What is the oldest structure at Notre Dame?\nQ12: What individuals live at Fatima House at Notre Dame?\nQ13: How many BS level degrees are offered in the College of Engineering at Notre Dame?\nQ14: In what year was the College of Engineering at Notre Dame formed?\nQ15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?\nQ16: How many departments are within the Stinson-Remick Hall of Engineering?\nQ17: What entity provides help with the management of time for new students at Notre Dame?\nQ18: How many colleges for undergraduates are at Notre Dame?\nQ19: What was created at Notre Dame in 1962 to assist first year students?\nQ20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"\n\n\nfrom this context:\nArchitecturally, the school has a Catholic character. Atop the Main Building\'s gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary. As at most other universities, Notre Dame\'s students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary\'s College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut. The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests live at Fatima House, located near the Grotto. The College of Engineering was established in 1892. Before its creation, engineering studies were carried out at the College of Arts and Letters. The College of Engineering has 13 departments and offers 14 BS level degrees. The Stinson-Remick Hall of Engineering houses 10 of the 13 departments. The First Year of Studies program at Notre Dame is considered outstanding by the American Council on Education.\n\nA1: Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858 in Lourdes, France - Q1\nA2: Christ with arms upraised with the legend "Venite Ad Me Omnes" - Q2\nA3: Basilica of the Sacred Heart - Q3\nA4: A Marian place of prayer and reflection, a replica of the grotto at Lourdes, France - Q4\nA5: Begun as a one-page journal in September 1876 - Q5\nA6: Twice a year - Q6\nA7: The Observer - Q7\nA8: Three - Q8\nA9: Rome - Q9\nA10: Moreau Seminary - Q10\nA11: Old College - Q11\nA12: Retired priests - Q12\nA13: 14 - Q13\nA14: 1892 - Q14\nA15: College of Arts and Letters - Q15\nA16: 10 - Q16\nA17: Not specified - Q17\nA18: Not specified - Q18\nA19: First Year of Studies program - Q19\nA20: American Council on Education - Q20',
+ 'answer these questions:\nAnswer as precisely as you can, in as minimum words as you can\nFormat your answers with \'A1:\', \'A2:\', etc. at the beginning of each answer\nAnswer the questions you are sure of from the context only \nIf answer is not in context then mark it with hyphens like A1: --\nQ1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?\nQ2: What is in front of the Notre Dame Main Building?\nQ3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?\nQ4: What is the Grotto at Notre Dame?\nQ5: When did the Scholastic Magazine of Notre dame begin publishing?\nQ6: How often is Notre Dame\'s the Juggler published?\nQ7: What is the daily student paper at Notre Dame called?\nQ8: How many student news papers are found at Notre Dame?\nQ9: Where is the headquarters of the Congregation of the Holy Cross?\nQ10: What is the primary seminary of the Congregation of the Holy Cross?\nQ11: What is the oldest structure at Notre Dame?\nQ12: What individuals live at Fatima House at Notre Dame?\nQ13: How many BS level degrees are offered in the College of Engineering at Notre Dame?\nQ14: In what year was the College of Engineering at Notre Dame formed?\nQ15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?\nQ16: How many departments are within the Stinson-Remick Hall of Engineering?\nQ17: What entity provides help with the management of time for new students at Notre Dame?\nQ18: How many colleges for undergraduates are at Notre Dame?\nQ19: What was created at Notre Dame in 1962 to assist first year students?\nQ20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"\n\n\nfrom this context:\nand brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching. The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively. All of Notre Dame\'s undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.\n\n\nA1: Bernadette Soubirous - Q1\nA2: Grotto - Q2\nA3: Basilica of the Sacred Heart - Q3\nA4: A cave-like structure - Q4\nA5: 1962 - Q5\nA6: Weekly - Q6\nA7: The Observer - Q7\nA8: Two - Q8\nA9: Notre Dame, Indiana, USA - Q9\nA10: Moreau Seminary - Q10\nA11: Old College - Q11\nA12: Brothers - Q12\nA13: 8 - Q13\nA14: 1920 - Q14\nA15: College of Science - Q15\nA16: 5 - Q16\nA17: First Year of Studies program - Q17\nA18: 5 - Q18\nA19: First Year of Studies program - Q19\nA20: U.S. News & World Report - Q20']
+ 
+ updated prompt 2 response:
+ 
+ 
+--- Response for Chunk 1 ---
+
+Answer these questions as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+If you cannot find enough information in the provided context to answer a question, respond with 'Not specified'. Do NOT guess.
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+Q11: What is the oldest structure at Notre Dame?
+Q12: What individuals live at Fatima House at Notre Dame?
+Q13: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q14: In what year was the College of Engineering at Notre Dame formed?
+Q15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q16: How many departments are within the Stinson-Remick Hall of Engineering?
+Q17: What entity provides help with the management of time for new students at Notre Dame?
+Q18: How many colleges for undergraduates are at Notre Dame?
+Q19: What was created at Notre Dame in 1962 to assist first year students?
+Q20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary. As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut. The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests live at Fatima House, which is located on the campus. The College of Engineering was created in 1892, and before that, engineering studies were conducted in the College of Arts and Letters. The College of Engineering offers 15 BS level degrees. The College of Engineering is housed in the Stinson-Remick Hall of Engineering. The College of Engineering has 12 departments. The First Year of Studies program at Notre Dame was declared "outstanding" by the American Council on Education.
+
+A1: The Virgin Mary allegedly appeared to Bernadette Soubirous in 1858 in Lourdes, France.
+A2: A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes" is in front of the Main Building.
+A3: The Basilica of the Sacred Heart is beside the Main Building.
+A4: The Grotto at Notre Dame is a replica of the grotto at Lourdes, France where the Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858.
+A5: The Scholastic magazine began publishing in September 1876.
+A6: The Juggler is released twice a year.
+A7: The daily student paper at Notre Dame is called The Observer.
+A8: There are three student news papers at Notre Dame.
+A9: The headquarters of the Congregation of the Holy Cross is in Rome.
+A10: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.
+A11: Old College is the oldest structure at Notre Dame.
+A12: Retired priests live at Fatima House at Notre Dame.
+A13: The College of Engineering at Notre Dame offers 15 BS level degrees.
+A14: The College of Engineering at Notre Dame was formed in 1892.
+A15: Before the creation of the College of Engineering, similar studies were carried out at the College of Arts and Letters.
+A16: There are 12 departments within the Stinson-Remick Hall of Engineering.
+A17: The entity that provides help with the management of time for new students at Notre Dame is not specified.
+A18: There are 4 colleges for undergraduates at Notre Dame (Arts and Letters, Engineering, Science, and the First Year of Studies).
+A19: The First Year of Studies program at Notre Dame was created in 1962 to assist first year students.
+A20: The First Year of Studies program at Notre Dame was declared "outstanding" by the American Council on Education.
+
+-------------------------------
+
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_deprecation.py:131: FutureWarning: 'post' (from 'huggingface_hub.inference._client') is deprecated and will be removed from version '0.31.0'. Making direct POST requests to the inference server is not supported anymore. Please use task methods instead (e.g. `InferenceClient.chat_completion`). If your use case is not supported, please open an issue in https://github.com/huggingface/huggingface_hub.
+  warnings.warn(warning_message, FutureWarning)
+
+
+--- Response for Chunk 2 ---
+
+Answer these questions as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+If you cannot find enough information in the provided context to answer a question, respond with 'Not specified'. Do NOT guess.
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+Q11: What is the oldest structure at Notre Dame?
+Q12: What individuals live at Fatima House at Notre Dame?
+Q13: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q14: In what year was the College of Engineering at Notre Dame formed?
+Q15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q16: How many departments are within the Stinson-Remick Hall of Engineering?
+Q17: What entity provides help with the management of time for new students at Notre Dame?
+Q18: How many colleges for undergraduates are at Notre Dame?
+Q19: What was created at Notre Dame in 1962 to assist first year students?
+Q20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+
+
+from this context:
+and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching. The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively. All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+
+A1: The Virgin Mary allegedly appeared to Bernadette Soubirous in 1858 in Lourdes, France.
+A2: The Notre Dame Main Building does not have anything in front of it in the provided context.
+A3: The Basilica of the Sacred Heart at Notre Dame is beside the Main Building.
+A4: The Grotto at Notre Dame is a small cave-like structure.
+A5: The Scholastic Magazine of Notre Dame began publishing in 1920.
+A6: The Notre Dame's the Juggler is published weekly.
+A7: The daily student paper at Notre Dame is The Observer.
+A8: There are two student news papers found at Notre Dame, The Observer and The Juggler.
+A9: The headquarters of the Congregation of the Holy Cross is Notre Dame University in South Bend, Indiana.
+A10: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.
+A11: The oldest structure at Notre Dame is the Basilica of the Sacred Heart, which was built between 1842 and 1865.
+A12: Individuals who live at Fatima House at Notre Dame are brothers of the Congregation of Holy Cross.
+A13: The College of Engineering at Notre Dame offers 8 BS level degrees.
+A14: The College of Engineering at Notre Dame was formed in 1920.
+A15: Before the creation of the College of Engineering, similar studies were carried out at the College of Science.
+A16: There are 5 departments within the Stinson-Remick Hall of Engineering.
+A17: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.
+A18: There are 5 undergraduate colleges at Notre Dame.
+A19: The First Year of Studies program was created at Notre Dame in 1962.
+A20: The First Year of Studies program at Notre Dame was recognized as outstanding by U.S. News & World Report.
+
+-------------------------------
+
+['Answer these questions as precisely as you can, in as minimum words as you can\nFormat your answers with \'A1:\', \'A2:\', etc. at the beginning of each answer\nIf you cannot find enough information in the provided context to answer a question, respond with \'Not specified\'. Do NOT guess.\nQ1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?\nQ2: What is in front of the Notre Dame Main Building?\nQ3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?\nQ4: What is the Grotto at Notre Dame?\nQ5: When did the Scholastic Magazine of Notre dame begin publishing?\nQ6: How often is Notre Dame\'s the Juggler published?\nQ7: What is the daily student paper at Notre Dame called?\nQ8: How many student news papers are found at Notre Dame?\nQ9: Where is the headquarters of the Congregation of the Holy Cross?\nQ10: What is the primary seminary of the Congregation of the Holy Cross?\nQ11: What is the oldest structure at Notre Dame?\nQ12: What individuals live at Fatima House at Notre Dame?\nQ13: How many BS level degrees are offered in the College of Engineering at Notre Dame?\nQ14: In what year was the College of Engineering at Notre Dame formed?\nQ15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?\nQ16: How many departments are within the Stinson-Remick Hall of Engineering?\nQ17: What entity provides help with the management of time for new students at Notre Dame?\nQ18: How many colleges for undergraduates are at Notre Dame?\nQ19: What was created at Notre Dame in 1962 to assist first year students?\nQ20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"\n\n\nfrom this context:\nArchitecturally, the school has a Catholic character. Atop the Main Building\'s gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary. As at most other universities, Notre Dame\'s students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary\'s College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut. The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests live at Fatima House, which is located on the campus. The College of Engineering was created in 1892, and before that, engineering studies were conducted in the College of Arts and Letters. The College of Engineering offers 15 BS level degrees. The College of Engineering is housed in the Stinson-Remick Hall of Engineering. The College of Engineering has 12 departments. The First Year of Studies program at Notre Dame was declared "outstanding" by the American Council on Education.\n\nA1: The Virgin Mary allegedly appeared to Bernadette Soubirous in 1858 in Lourdes, France.\nA2: A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes" is in front of the Main Building.\nA3: The Basilica of the Sacred Heart is beside the Main Building.\nA4: The Grotto at Notre Dame is a replica of the grotto at Lourdes, France where the Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858.\nA5: The Scholastic magazine began publishing in September 1876.\nA6: The Juggler is released twice a year.\nA7: The daily student paper at Notre Dame is called The Observer.\nA8: There are three student news papers at Notre Dame.\nA9: The headquarters of the Congregation of the Holy Cross is in Rome.\nA10: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.\nA11: Old College is the oldest structure at Notre Dame.\nA12: Retired priests live at Fatima House at Notre Dame.\nA13: The College of Engineering at Notre Dame offers 15 BS level degrees.\nA14: The College of Engineering at Notre Dame was formed in 1892.\nA15: Before the creation of the College of Engineering, similar studies were carried out at the College of Arts and Letters.\nA16: There are 12 departments within the Stinson-Remick Hall of Engineering.\nA17: The entity that provides help with the management of time for new students at Notre Dame is not specified.\nA18: There are 4 colleges for undergraduates at Notre Dame (Arts and Letters, Engineering, Science, and the First Year of Studies).\nA19: The First Year of Studies program at Notre Dame was created in 1962 to assist first year students.\nA20: The First Year of Studies program at Notre Dame was declared "outstanding" by the American Council on Education.',
+ 'Answer these questions as precisely as you can, in as minimum words as you can\nFormat your answers with \'A1:\', \'A2:\', etc. at the beginning of each answer\nIf you cannot find enough information in the provided context to answer a question, respond with \'Not specified\'. Do NOT guess.\nQ1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?\nQ2: What is in front of the Notre Dame Main Building?\nQ3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?\nQ4: What is the Grotto at Notre Dame?\nQ5: When did the Scholastic Magazine of Notre dame begin publishing?\nQ6: How often is Notre Dame\'s the Juggler published?\nQ7: What is the daily student paper at Notre Dame called?\nQ8: How many student news papers are found at Notre Dame?\nQ9: Where is the headquarters of the Congregation of the Holy Cross?\nQ10: What is the primary seminary of the Congregation of the Holy Cross?\nQ11: What is the oldest structure at Notre Dame?\nQ12: What individuals live at Fatima House at Notre Dame?\nQ13: How many BS level degrees are offered in the College of Engineering at Notre Dame?\nQ14: In what year was the College of Engineering at Notre Dame formed?\nQ15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?\nQ16: How many departments are within the Stinson-Remick Hall of Engineering?\nQ17: What entity provides help with the management of time for new students at Notre Dame?\nQ18: How many colleges for undergraduates are at Notre Dame?\nQ19: What was created at Notre Dame in 1962 to assist first year students?\nQ20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"\n\n\nfrom this context:\nand brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching. The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively. All of Notre Dame\'s undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.\n\nA1: The Virgin Mary allegedly appeared to Bernadette Soubirous in 1858 in Lourdes, France.\nA2: The Notre Dame Main Building does not have anything in front of it in the provided context.\nA3: The Basilica of the Sacred Heart at Notre Dame is beside the Main Building.\nA4: The Grotto at Notre Dame is a small cave-like structure.\nA5: The Scholastic Magazine of Notre Dame began publishing in 1920.\nA6: The Notre Dame\'s the Juggler is published weekly.\nA7: The daily student paper at Notre Dame is The Observer.\nA8: There are two student news papers found at Notre Dame, The Observer and The Juggler.\nA9: The headquarters of the Congregation of the Holy Cross is Notre Dame University in South Bend, Indiana.\nA10: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.\nA11: The oldest structure at Notre Dame is the Basilica of the Sacred Heart, which was built between 1842 and 1865.\nA12: Individuals who live at Fatima House at Notre Dame are brothers of the Congregation of Holy Cross.\nA13: The College of Engineering at Notre Dame offers 8 BS level degrees.\nA14: The College of Engineering at Notre Dame was formed in 1920.\nA15: Before the creation of the College of Engineering, similar studies were carried out at the College of Science.\nA16: There are 5 departments within the Stinson-Remick Hall of Engineering.\nA17: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.\nA18: There are 5 undergraduate colleges at Notre Dame.\nA19: The First Year of Studies program was created at Notre Dame in 1962.\nA20: The First Year of Studies program at Notre Dame was recognized as outstanding by U.S. News & World Report.']
+
+Colab paid products - Cancel contracts here
+
+
+
+Conclusion: This fails.
+
+
+
+Next approaches:
+
+
+assigning questions to chunks: first run: (looks pretty good)
+
+======================================================================PRINTING PROMPT======================================================================
+
+🧠 Current Prompt:
+Answer these questions as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+If you cannot find enough information in the provided context to answer a question, respond with 'Not specified'. Do NOT guess.
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+Q11: What is the oldest structure at Notre Dame?
+Q12: What individuals live at Fatima House at Notre Dame?
+Q13: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q14: In what year was the College of Engineering at Notre Dame formed?
+Q15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q16: How many departments are within the Stinson-Remick Hall of Engineering?
+Q17: What entity provides help with the management of time for new students at Notre Dame?
+Q18: How many colleges for undergraduates are at Notre Dame?
+Q19: What was created at Notre Dame in 1962 to assist first year students?
+Q20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary.
+
+As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut.
+
+The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching.
+
+The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively.
+
+All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+
+=======================================================================PROMPT COUNTS======================================================================
+Length: 5939 characters, approximately 966 tokens
+========================================================================END PRINTING======================================================================
+keywords per question:  [['whom', 'virgin', 'mary', 'allegedly', 'appear', '1858', 'lourdes', 'france'], ['front', 'notre', 'dame', 'main', 'building'], ['basilica', 'sacred', 'heart', 'notre', 'dame', 'beside', 'structure'], ['grotto', 'notre', 'dame'], ['scholastic', 'magazine', 'notre', 'dame', 'begin', 'publishing'], ['often', 'notre', 'dames', 'juggler', 'published'], ['daily', 'student', 'paper', 'notre', 'dame', 'called'], ['many', 'student', 'news', 'papers', 'are', 'found', 'notre', 'dame'], ['headquarters', 'congregation', 'holy', 'cross'], ['primary', 'seminary', 'congregation', 'holy', 'cross'], ['oldest', 'structure', 'notre', 'dame'], ['individuals', 'live', 'fatima', 'house', 'notre', 'dame'], ['many', 'level', 'degrees', 'are', 'offered', 'college', 'engineering', 'notre', 'dame'], ['year', 'college', 'engineering', 'notre', 'dame', 'formed'], ['before', 'creation', 'college', 'engineering', 'similar', 'studies', 'carried', 'out', 'notre', 'dame', 'college'], ['many', 'departments', 'are', 'within', 'stinsonremick', 'hall', 'engineering'], ['entity', 'provides', 'help', 'management', 'time', 'new', 'students', 'notre', 'dame'], ['many', 'colleges', 'undergraduates', 'are', 'notre', 'dame'], ['created', 'notre', 'dame', '1962', 'assist', 'first', 'year', 'students'], ['organization', 'declared', 'first', 'year', 'studies', 'program', 'notre', 'dame', 'outstanding']]
+chunk assignments:  defaultdict(<class 'list'>, {0: ['To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?', 'What is in front of the Notre Dame Main Building?', 'The Basilica of the Sacred heart at Notre Dame is beside to which structure?', 'What is the Grotto at Notre Dame?', 'When did the Scholastic Magazine of Notre dame begin publishing?', "How often is Notre Dame's the Juggler published?", 'What is the daily student paper at Notre Dame called?', 'How many student news papers are found at Notre Dame?', 'Where is the headquarters of the Congregation of the Holy Cross?', 'What is the primary seminary of the Congregation of the Holy Cross?', 'What is the oldest structure at Notre Dame?'], 1: ['What individuals live at Fatima House at Notre Dame?', 'How many BS level degrees are offered in the College of Engineering at Notre Dame?', 'In what year was the College of Engineering at Notre Dame formed?', 'Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?', 'How many departments are within the Stinson-Remick Hall of Engineering?', 'What entity provides help with the management of time for new students at Notre Dame?', 'How many colleges for undergraduates are at Notre Dame?', 'What was created at Notre Dame in 1962 to assist first year students?', 'Which organization declared the First Year of Studies program at Notre Dame "outstanding?"']})
+=== Prompt ===
+Answer these questions as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+If you cannot find enough information in the provided context to answer a question, respond with 'Not specified'. Do NOT guess.
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+Q11: What is the oldest structure at Notre Dame?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary. As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut. The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests
+==============
+
+=== Prompt ===
+Answer these questions as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+If you cannot find enough information in the provided context to answer a question, respond with 'Not specified'. Do NOT guess.
+Q1: What individuals live at Fatima House at Notre Dame?
+Q2: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q3: In what year was the College of Engineering at Notre Dame formed?
+Q4: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q5: How many departments are within the Stinson-Remick Hall of Engineering?
+Q6: What entity provides help with the management of time for new students at Notre Dame?
+Q7: How many colleges for undergraduates are at Notre Dame?
+Q8: What was created at Notre Dame in 1962 to assist first year students?
+Q9: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+
+from this context:
+and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching. The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively. All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+==============
+
+<ipython-input-8-0643fa1839e1>:26: LangChainDeprecationWarning: The method `BaseLLM.__call__` was deprecated in langchain-core 0.1.7 and will be removed in 1.0. Use :meth:`~invoke` instead.
+  return self.llm(prompt)
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_deprecation.py:131: FutureWarning: 'post' (from 'huggingface_hub.inference._client') is deprecated and will be removed from version '0.31.0'. Making direct POST requests to the inference server is not supported anymore. Please use task methods instead (e.g. `InferenceClient.chat_completion`). If your use case is not supported, please open an issue in https://github.com/huggingface/huggingface_hub.
+  warnings.warn(warning_message, FutureWarning)
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_auth.py:94: UserWarning: 
+The secret `HF_TOKEN` does not exist in your Colab secrets.
+To authenticate with the Hugging Face Hub, create a token in your settings tab (https://huggingface.co/settings/tokens), set it as secret in your Google Colab and restart your session.
+You will be able to reuse this secret in all of your notebooks.
+Please note that authentication is recommended but still optional to access public models or datasets.
+  warnings.warn(
+
+
+--- Response for Chunk 1 ---
+
+Answer these questions as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+If you cannot find enough information in the provided context to answer a question, respond with 'Not specified'. Do NOT guess.
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Q2: What is in front of the Notre Dame Main Building?
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Q4: What is the Grotto at Notre Dame?
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+Q6: How often is Notre Dame's the Juggler published?
+Q7: What is the daily student paper at Notre Dame called?
+Q8: How many student news papers are found at Notre Dame?
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+Q11: What is the oldest structure at Notre Dame?
+
+from this context:
+Architecturally, the school has a Catholic character. Atop the Main Building's gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary. As at most other universities, Notre Dame's students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary's College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut. The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests live in Moreau Seminary.
+
+A1: The Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858 in Lourdes, France.
+A2: A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes" is in front of the Notre Dame Main Building.
+A3: The Basilica of the Sacred Heart is beside the Notre Dame Main Building.
+A4: The Grotto at Notre Dame is a replica of the grotto at Lourdes, France where the Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858.
+A5: The Scholastic Magazine of Notre Dame began publishing in September 1876.
+A6: The Juggler is published twice a year.
+A7: The daily student paper at Notre Dame is called The Observer.
+A8: There are 3 student news papers found at Notre Dame.
+A9: The headquarters of the Congregation of the Holy Cross is in Rome.
+A10: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.
+A11: Old College is the oldest structure at Notre Dame.
+
+-------------------------------
+
+/usr/local/lib/python3.11/dist-packages/huggingface_hub/utils/_deprecation.py:131: FutureWarning: 'post' (from 'huggingface_hub.inference._client') is deprecated and will be removed from version '0.31.0'. Making direct POST requests to the inference server is not supported anymore. Please use task methods instead (e.g. `InferenceClient.chat_completion`). If your use case is not supported, please open an issue in https://github.com/huggingface/huggingface_hub.
+  warnings.warn(warning_message, FutureWarning)
+
+
+--- Response for Chunk 2 ---
+
+Answer these questions as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+If you cannot find enough information in the provided context to answer a question, respond with 'Not specified'. Do NOT guess.
+Q1: What individuals live at Fatima House at Notre Dame?
+Q2: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Q3: In what year was the College of Engineering at Notre Dame formed?
+Q4: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Q5: How many departments are within the Stinson-Remick Hall of Engineering?
+Q6: What entity provides help with the management of time for new students at Notre Dame?
+Q7: How many colleges for undergraduates are at Notre Dame?
+Q8: What was created at Notre Dame in 1962 to assist first year students?
+Q9: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+
+from this context:
+and brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching. The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively. All of Notre Dame's undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.
+
+A1: Individuals who live at Fatima House at Notre Dame are brothers.
+A2: The College of Engineering at Notre Dame offers 8 BS level degrees.
+A3: The College of Engineering at Notre Dame was formed in 1920.
+A4: Before the creation of the College of Engineering, similar studies were carried out at the College of Science.
+A5: There are 5 departments within the Stinson-Remick Hall of Engineering.
+A6: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.
+A7: There are 6 colleges for undergraduates at Notre Dame (including the First Year of Studies program).
+A8: The First Year of Studies program was created at Notre Dame in 1962.
+A9: The First Year of Studies program at Notre Dame was declared "outstanding" by U.S. News & World Report.
+
+-------------------------------
+
+['Answer these questions as precisely as you can, in as minimum words as you can\nFormat your answers with \'A1:\', \'A2:\', etc. at the beginning of each answer\nIf you cannot find enough information in the provided context to answer a question, respond with \'Not specified\'. Do NOT guess.\nQ1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?\nQ2: What is in front of the Notre Dame Main Building?\nQ3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?\nQ4: What is the Grotto at Notre Dame?\nQ5: When did the Scholastic Magazine of Notre dame begin publishing?\nQ6: How often is Notre Dame\'s the Juggler published?\nQ7: What is the daily student paper at Notre Dame called?\nQ8: How many student news papers are found at Notre Dame?\nQ9: Where is the headquarters of the Congregation of the Holy Cross?\nQ10: What is the primary seminary of the Congregation of the Holy Cross?\nQ11: What is the oldest structure at Notre Dame?\n\nfrom this context:\nArchitecturally, the school has a Catholic character. Atop the Main Building\'s gold dome is a golden statue of the Virgin Mary. Immediately in front of the Main Building and facing it, is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes". Next to the Main Building is the Basilica of the Sacred Heart. Immediately behind the basilica is the Grotto, a Marian place of prayer and reflection. It is a replica of the grotto at Lourdes, France where the Virgin Mary reputedly appeared to Saint Bernadette Soubirous in 1858. At the end of the main drive (and in a direct line that connects through 3 statues and the Gold Dome), is a simple, modern stone statue of Mary. As at most other universities, Notre Dame\'s students run a number of news media outlets. The nine student-run outlets include three newspapers, both a radio and television station, and several magazines and journals. Begun as a one-page journal in September 1876, the Scholastic magazine is issued twice monthly and claims to be the oldest continuous collegiate publication in the United States. The other magazine, The Juggler, is released twice a year and focuses on student literature and artwork. The Dome yearbook is published annually. The newspapers have varying publication interests, with The Observer published daily and mainly reporting university and other news, and staffed by students from both Notre Dame and Saint Mary\'s College. Unlike Scholastic and The Dome, The Observer is an independent publication and does not have a faculty advisor or any editorial oversight from the University. In 1987, when some students believed that The Observer began to show a conservative bias, a liberal newspaper, Common Sense was published. Likewise, in 2003, when other students believed that the paper showed a liberal bias, the conservative paper Irish Rover went into production. Neither paper is published as often as The Observer; however, all three are distributed to all students. Finally, in Spring 2008 an undergraduate journal for political science research, Beyond Politics, made its debut. The university is the major seat of the Congregation of Holy Cross (albeit not its official headquarters, which are in Rome). Its main seminary, Moreau Seminary, is located on the campus across St. Joseph lake from the Main Building. Old College, the oldest building on campus and located near the shore of St. Mary lake, houses undergraduate seminarians. Retired priests live in Moreau Seminary.\n\nA1: The Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858 in Lourdes, France.\nA2: A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes" is in front of the Notre Dame Main Building.\nA3: The Basilica of the Sacred Heart is beside the Notre Dame Main Building.\nA4: The Grotto at Notre Dame is a replica of the grotto at Lourdes, France where the Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858.\nA5: The Scholastic Magazine of Notre Dame began publishing in September 1876.\nA6: The Juggler is published twice a year.\nA7: The daily student paper at Notre Dame is called The Observer.\nA8: There are 3 student news papers found at Notre Dame.\nA9: The headquarters of the Congregation of the Holy Cross is in Rome.\nA10: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.\nA11: Old College is the oldest structure at Notre Dame.',
+ 'Answer these questions as precisely as you can, in as minimum words as you can\nFormat your answers with \'A1:\', \'A2:\', etc. at the beginning of each answer\nIf you cannot find enough information in the provided context to answer a question, respond with \'Not specified\'. Do NOT guess.\nQ1: What individuals live at Fatima House at Notre Dame?\nQ2: How many BS level degrees are offered in the College of Engineering at Notre Dame?\nQ3: In what year was the College of Engineering at Notre Dame formed?\nQ4: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?\nQ5: How many departments are within the Stinson-Remick Hall of Engineering?\nQ6: What entity provides help with the management of time for new students at Notre Dame?\nQ7: How many colleges for undergraduates are at Notre Dame?\nQ8: What was created at Notre Dame in 1962 to assist first year students?\nQ9: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"\n\nfrom this context:\nand brothers reside in Fatima House (a former retreat center), Holy Cross House, as well as Columba Hall near the Grotto. The university through the Moreau Seminary has ties to theologian Frederick Buechner. While not Catholic, Buechner has praised writers from Notre Dame and Moreau Seminary created a Buechner Prize for Preaching. The College of Engineering was established in 1920, however, early courses in civil and mechanical engineering were a part of the College of Science since the 1870s. Today the college, housed in the Fitzpatrick, Cushing, and Stinson-Remick Halls of Engineering, includes five departments of study – aerospace and mechanical engineering, chemical and biomolecular engineering, civil engineering and geological sciences, computer science and engineering, and electrical engineering – with eight B.S. degrees offered. Additionally, the college offers five-year dual degree programs with the Colleges of Arts and Letters and of Business awarding additional B.A. and Master of Business Administration (MBA) degrees, respectively. All of Notre Dame\'s undergraduate students are a part of one of the five undergraduate colleges at the school or are in the First Year of Studies program. The First Year of Studies program was established in 1962 to guide incoming freshmen in their first year at the school before they have declared a major. Each student is given an academic advisor from the program who helps them to choose classes that give them exposure to any major in which they are interested. The program also includes a Learning Resource Center which provides time management, collaborative learning, and subject tutoring. This program has been recognized previously, by U.S. News & World Report, as outstanding.\n\nA1: Individuals who live at Fatima House at Notre Dame are brothers.\nA2: The College of Engineering at Notre Dame offers 8 BS level degrees.\nA3: The College of Engineering at Notre Dame was formed in 1920.\nA4: Before the creation of the College of Engineering, similar studies were carried out at the College of Science.\nA5: There are 5 departments within the Stinson-Remick Hall of Engineering.\nA6: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.\nA7: There are 6 colleges for undergraduates at Notre Dame (including the First Year of Studies program).\nA8: The First Year of Studies program was created at Notre Dame in 1962.\nA9: The First Year of Studies program at Notre Dame was declared "outstanding" by U.S. News & World Report.']
+ 
+ 
+ 
+ 
+ K5Q3
+
+Question | Predicted Answer | Gold Answer
+--------------------------------------------------------------------------------
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+  🤖 Predicted: The Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858 in Lourdes, France.
+  ✅ Gold     : Saint Bernadette Soubirous
+
+Q2: What is in front of the Notre Dame Main Building?
+  🤖 Predicted: A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes" is in front of the Notre Dame Main Building.
+  ✅ Gold     : a copper statue of Christ
+
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+  🤖 Predicted: The Basilica of the Sacred Heart is beside the Notre Dame Main Building.
+  ✅ Gold     : the Main Building
+
+Q4: What is the Grotto at Notre Dame?
+  🤖 Predicted: The Grotto at Notre Dame is a replica of the grotto at Lourdes, France where the Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858.
+  ✅ Gold     : a Marian place of prayer and reflection
+
+Q5: When did the Scholastic Magazine of Notre dame begin publishing?
+  🤖 Predicted: The Scholastic Magazine of Notre Dame began publishing in September 1876.
+  ✅ Gold     : September 1876
+
+Q6: How often is Notre Dame's the Juggler published?
+  🤖 Predicted: The Juggler is published twice a year.
+  ✅ Gold     : twice
+
+Q7: What is the daily student paper at Notre Dame called?
+  🤖 Predicted: The daily student paper at Notre Dame is called The Observer.
+  ✅ Gold     : The Observer
+
+Q8: How many student news papers are found at Notre Dame?
+  🤖 Predicted: There are 3 student news papers found at Notre Dame.
+  ✅ Gold     : three
+
+Q9: Where is the headquarters of the Congregation of the Holy Cross?
+  🤖 Predicted: The headquarters of the Congregation of the Holy Cross is in Rome.
+  ✅ Gold     : Rome
+
+Q10: What is the primary seminary of the Congregation of the Holy Cross?
+  🤖 Predicted: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.
+  ✅ Gold     : Moreau Seminary
+
+Q11: What is the oldest structure at Notre Dame?
+  🤖 Predicted: Old College is the oldest structure at Notre Dame.
+  ✅ Gold     : Old College
+
+Q12: What individuals live at Fatima House at Notre Dame?
+  🤖 Predicted: Individuals who live at Fatima House at Notre Dame are brothers.
+  ✅ Gold     : Retired priests and brothers
+
+Q13: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+  🤖 Predicted: The College of Engineering at Notre Dame offers 8 BS level degrees.
+  ✅ Gold     : eight
+
+Q14: In what year was the College of Engineering at Notre Dame formed?
+  🤖 Predicted: The College of Engineering at Notre Dame was formed in 1920.
+  ✅ Gold     : 1920
+
+Q15: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+  🤖 Predicted: Before the creation of the College of Engineering, similar studies were carried out at the College of Science.
+  ✅ Gold     : the College of Science
+
+Q16: How many departments are within the Stinson-Remick Hall of Engineering?
+  🤖 Predicted: There are 5 departments within the Stinson-Remick Hall of Engineering.
+  ✅ Gold     : five
+
+Q17: What entity provides help with the management of time for new students at Notre Dame?
+  🤖 Predicted: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.
+  ✅ Gold     : Learning Resource Center
+
+Q18: How many colleges for undergraduates are at Notre Dame?
+  🤖 Predicted: There are 6 colleges for undergraduates at Notre Dame (including the First Year of Studies program).
+  ✅ Gold     : five
+
+Q19: What was created at Notre Dame in 1962 to assist first year students?
+  🤖 Predicted: The First Year of Studies program was created at Notre Dame in 1962.
+  ✅ Gold     : The First Year of Studies program
+
+Q20: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+  🤖 Predicted: The First Year of Studies program at Notre Dame was declared "outstanding" by U.S. News & World Report.
+  ✅ Gold     : U.S. News & World Report
+  
+  
+
+K8Q5: (with new approach, seems to be working fine.)
+  
+  -------------------------------
+
+Question | Predicted Answer | Gold Answer
+--------------------------------------------------------------------------------
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+  🤖 Predicted: The Virgin Mary allegedly appeared to Bernadette Soubirous in 1858 in Lourdes, France.
+  ✅ Gold     : Saint Bernadette Soubirous
+
+Q2: What is in front of the Notre Dame Main Building?
+  🤖 Predicted: A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes" is in front of the Notre Dame Main Building.
+  ✅ Gold     : a copper statue of Christ
+
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+  🤖 Predicted: The Basilica of the Sacred heart at Notre Dame is beside the Main Building.
+  ✅ Gold     : the Main Building
+
+Q4: What is the Grotto at Notre Dame?
+  🤖 Predicted: The Grotto at Notre Dame is a Marian place of prayer and reflection, a replica of the grotto at Lourdes, France.
+  ✅ Gold     : a Marian place of prayer and reflection
+
+Q5: What sits on top of the Main Building at Notre Dame?
+  🤖 Predicted: A golden statue of the Virgin Mary sits on top of the Main Building at Notre Dame.
+  ✅ Gold     : a golden statue of the Virgin Mary
+
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+  🤖 Predicted: The Scholastic Magazine of Notre Dame began publishing in September 1876.
+  ✅ Gold     : September 1876
+
+Q7: How often is Notre Dame's the Juggler published?
+  🤖 Predicted: The Juggler is published twice a year.
+  ✅ Gold     : twice
+
+Q8: What is the daily student paper at Notre Dame called?
+  🤖 Predicted: The daily student paper at Notre Dame is called The Observer.
+  ✅ Gold     : The Observer
+
+Q9: How many student news papers are found at Notre Dame?
+  🤖 Predicted: There are 3 student news papers at Notre Dame.
+  ✅ Gold     : three
+
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+  🤖 Predicted: The student paper Common Sense began publication at Notre Dame in 1987.
+  ✅ Gold     : 1987
+
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+  🤖 Predicted: The headquarters of the Congregation of the Holy Cross is in Rome.
+  ✅ Gold     : Rome
+
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+  🤖 Predicted: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.
+  ✅ Gold     : Moreau Seminary
+
+Q13: What is the oldest structure at Notre Dame?
+  🤖 Predicted: Old College, the oldest building on campus, is the oldest structure at Notre Dame.
+  ✅ Gold     : Old College
+
+Q14: What individuals live at Fatima House at Notre Dame?
+  🤖 Predicted: Individuals who live at Fatima House at Notre Dame are retired priests and brothers.
+  ✅ Gold     : Retired priests and brothers
+
+Q15: Which prize did Frederick Buechner create?
+  🤖 Predicted: Frederick Buechner created the Buechner Prize for Preaching.
+  ✅ Gold     : Buechner Prize for Preaching
+
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+  🤖 Predicted: The College of Engineering at Notre Dame offers 8 BS level degrees.
+  ✅ Gold     : eight
+
+Q17: In what year was the College of Engineering at Notre Dame formed?
+  🤖 Predicted: The College of Engineering at Notre Dame was formed in 1920.
+  ✅ Gold     : 1920
+
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+  🤖 Predicted: Early courses in civil and mechanical engineering were a part of the College of Science since the 1870s.
+  ✅ Gold     : the College of Science
+
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+  🤖 Predicted: There are 5 departments within the Stinson-Remick Hall of Engineering.
+  ✅ Gold     : five
+
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+  🤖 Predicted: The College of Science began to offer civil engineering courses in the 1870s.
+  ✅ Gold     : the 1870s
+
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+  🤖 Predicted: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.
+  ✅ Gold     : Learning Resource Center
+
+Q22: How many colleges for undergraduates are at Notre Dame?
+  🤖 Predicted: There are 5 undergraduate colleges at Notre Dame.
+  ✅ Gold     : five
+
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+  🤖 Predicted: The First Year of Studies program was established in 1962.
+  ✅ Gold     : The First Year of Studies program
+
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+  🤖 Predicted: The First Year of Studies program at Notre Dame was recognized as "outstanding" by U.S. News & World Report.
+  ✅ Gold     : U.S. News & World Report
+
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+  🤖 Predicted: The granting of Doctorate degrees first occurred in 1897 at Notre Dame.
+  ✅ Gold     : 1924
+
+Q26: What type of degree is an M.Div.?
+  🤖 Predicted: An M.Div. is a Master of Divinity degree.
+  ✅ Gold     : Master of Divinity
+
+Q27: In what year was a Master of Arts course first offered at Notre Dame?
+  🤖 Predicted: A Master of Arts course first offered at Notre Dame was in the 1854–1855 academic year.
+  ✅ Gold     : Alliance for Catholic Education
+
+Q28: Which department at Notre Dame is the only one to not offer a PhD program?
+  🤖 Predicted: The only department at Notre Dame to not offer a PhD program is the Department of Theology.
+  ✅ Gold     : 1854
+
+Q29: Which program at Notre Dame offers a Master of Education degree?
+  🤖 Predicted: The Alliance for Catholic Education program offers a Master of Education program.
+  ✅ Gold     : Department of Pre-Professional Studies
+
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+  🤖 Predicted: The Joan B. Kroc Institute for International Peace Studies studies the reasons for violent conflict.
+  ✅ Gold     : Joan B. Kroc Institute for International Peace Studies
+
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+  🤖 Predicted: The title of Notre Dame's Theodore Hesburgh is President Emeritus.
+  ✅ Gold     : President Emeritus of the University of Notre Dame
+
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+  🤖 Predicted: The Joan B. Kroc Institute for International Peace Studies was founded in 1986.
+  ✅ Gold     : 1986
+
+Q33: To whom was John B. Kroc married?
+  🤖 Predicted: John B. Kroc was married to Joan B. Kroc.
+  ✅ Gold     : Ray Kroc
+
+Q34: What company did Ray Kroc own?
+  🤖 Predicted: Ray Kroc owned McDonald's.
+  ✅ Gold     : McDonald's
+
+Q35: How many stories tall is the main library at Notre Dame?
+  🤖 Predicted: The main library at Notre Dame is 14 stories tall.
+  ✅ Gold     : 14
+
+Q36: What is the name of the main library at Notre Dame?
+  🤖 Predicted: The main library at Notre Dame is the Theodore M. Hesburgh Library.
+  ✅ Gold     : Theodore M. Hesburgh Library
+
+Q37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+  🤖 Predicted: The Theodore M. Hesburgh Library at Notre Dame was finished in 1963.
+  ✅ Gold     : 1963
+
+Q38: Which artist created the mural on the Theodore M. Hesburgh Library?
+  🤖 Predicted: Millard Sheets created the mural on the Theodore M. Hesburgh Library.
+  ✅ Gold     : Millard Sheets
+
+Q39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+  🤖 Predicted: The mural created by Millard Sheets at Notre Dame is commonly known as "Touchdown Jesus".
+  ✅ Gold     : Touchdown Jesus
+ 
+ 
+ 
+ 
+ 
+

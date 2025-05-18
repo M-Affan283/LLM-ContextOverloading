@@ -1,0 +1,243 @@
+Approach2_K16Q5
+
+
+--- Response for Chunk 1 ---
+
+Answer these questions as precisely as you can, in as minimum words as you can
+Format your answers with 'A1:', 'A2:', etc. at the beginning of each answer
+If you cannot find enough information in the provided context to answer a question, respond with 'Not specified'. Do NOT guess.
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+Predicted: The Virgin Mary allegedly appeared to Saint Bernadette Soubirous in 1858 in Lourdes, France.
+Gold: Saint Bernadette Soubirous
+
+Q2: What is in front of the Notre Dame Main Building?
+Predicted: In front of the Notre Dame Main Building is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes".
+Gold: a copper statue of Christ
+
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+Predicted: The Basilica of the Sacred Heart is beside to the Main Building.
+Gold: the Main Building
+
+Q4: What is the Grotto at Notre Dame?
+Predicted: The Grotto at Notre Dame is a Marian place of prayer and reflection, a replica of the grotto at Lourdes, France.
+Gold: a Marian place of prayer and reflection
+
+Q5: What sits on top of the Main Building at Notre Dame?
+Predicted: A golden statue of the Virgin Mary sits on top of the Main Building at Notre Dame.
+Gold: a golden statue of the Virgin Mary
+
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+Predicted: The Scholastic Magazine of Notre Dame began publishing in September 1876.
+Gold: September 1876
+
+Q7: How often is Notre Dame's the Juggler published?
+Predicted: The Juggler is published twice a year.
+Gold: twice
+
+Q8: What is the daily student paper at Notre Dame called?
+Predicted: The daily student paper at Notre Dame is called The Observer.
+Gold: The Observer
+
+Q9: How many student news papers are found at Notre Dame?
+Predicted: There are nine student-run news papers at Notre Dame.
+Gold: three
+
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+Predicted: The student paper Common Sense began publication at Notre Dame in 1987.
+Gold: 1987
+
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+Predicted: The headquarters of the Congregation of the Holy Cross is in Rome.
+Gold: Rome
+
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+Predicted: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.
+Gold: Moreau Seminary
+
+Q13: What is the oldest structure at Notre Dame?
+Predicted: The oldest structure at Notre Dame is Old College.
+Gold: Old College
+
+Q14: What individuals live at Fatima House at Notre Dame?
+Predicted: Individuals who live at Fatima House at Notre Dame are retired priests and brothers.
+Gold: Retired priests and brothers
+
+Q15: Which prize did Frederick Buechner create?
+Predicted: Frederick Buechner created the Buechner Prize for Preaching.
+Gold: Buechner Prize for Preaching
+
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+Predicted: The College of Engineering at Notre Dame offers eight B.S. level degrees.
+Gold: eight
+
+Q17: In what year was the College of Engineering at Notre Dame formed?
+Predicted: The College of Engineering at Notre Dame was formed in 1842.
+Gold: 1920
+
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+Predicted: Before the creation of the College of Engineering, similar studies were carried out at the College of Science.
+Gold: the College of Science
+
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+Predicted: There are five departments within the Stinson-Remick Hall of Engineering.
+Gold: five
+
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+Predicted: The College of Science began to offer civil engineering courses in the 1870s at Notre Dame.
+Gold: the 1870s
+
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+Predicted: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.
+Gold: Learning Resource Center
+
+Q22: How many colleges for undergraduates are at Notre Dame?
+Predicted: There are 6 colleges for undergraduates at Notre Dame.
+Gold: five
+
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+Predicted: In 1962, the First Year of Studies program was created at Notre Dame to assist first year students.
+Gold: The First Year of Studies program
+
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+Predicted: The First Year of Studies program at Notre Dame was declared "outstanding" by U.S. News & World Report.
+Gold: U.S. News & World Report
+
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+Predicted: The granting of Doctorate degrees first occurred in 1924 at Notre Dame.
+Gold: 1924
+
+Q26: What type of degree is an M.Div.?
+Predicted: An M.Div. is a Master of Divinity degree.
+Gold: Master of Divinity
+
+Q27: Which program at Notre Dame offers a Master of Education degree?
+Predicted: The Alliance for Catholic Education program at Notre Dame offers a Master of Education degree.
+Gold: Alliance for Catholic Education
+
+Q28: In what year was a Master of Arts course first offered at Notre Dame?
+Predicted: In the 1854–1855 academic year, the first Master of Arts course was offered at Notre Dame.
+Gold: 1854
+
+Q29: Which department at Notre Dame is the only one to not offer a PhD program?
+Predicted: The Department of Theology is the only one at Notre Dame that does not offer a PhD program.
+Gold: Department of Pre-Professional Studies
+
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+Predicted: The Joan B. Kroc Institute for International Peace Studies at Notre Dame studies the reasons for violent conflict.
+Gold: Joan B. Kroc Institute for International Peace Studies
+
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+Predicted: Theodore Hesburgh is the title of Notre Dame's President Emeritus.
+Gold: President Emeritus of the University of Notre Dame
+
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+Predicted: The Joan B. Kroc Institute for International Peace Studies was founded in 1986.
+Gold: 1986
+
+Q33: To whom was John B. Kroc married?
+Predicted: John B. Kroc was married to Ruth Buchanan.
+Gold: Ray Kroc
+
+
+
+
+
+Q25: Forbes.com placed Notre Dame at what position compared to other US research universities?
+Q26: Which individual worked on projects at Notre Dame that eventually created neoprene?
+Q27: What percentage of students at Notre Dame are the children of former Notre Dame students?
+
+A25: Forbes.com placed Notre Dame at 45th compared to other US research universities.
+A26: The individual who worked on projects at Notre Dame that eventually created neoprene was not specified.
+A27: The percentage of students at Notre Dame who are the children of former Notre Dame students was not specified.
+
+Q5: What person was the Director of the Science Museum at Notre Dame in the late 19th century?
+Q6: What was the lifespan of John Augustine Zahm?
+Q7: What program did John Augustine Zahm come to co-direct at Nore Dame?
+Q8: What book did John Zahm write in 1896?
+Q9: What professorship did Father Josh Carrier hold at Notre Dame?
+Q10: In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?
+Q11: Which professor sent the first wireless message in the USA?
+Q12: In what year did Jerome Green send his first wireless message?
+Q13: What did the brother of John Zahm construct at Notre Dame?
+Q14: Work on a germ-free-life ended up in the creation of which Notre Dame institute?
+Q15: Around what time did Lobund of Notre Dame become independent?
+Q16: In what year did Lobund at Notre Dame become an Institute?
+Q17: The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?
+Q18: Gurian created what in 1939 at Notre Dame?
+Q19: What was the Review of Politics inspired by?
+Q20: Over how many years did Gurian edit the Review of Politics at Notre Dame?
+Q21: Thomas Stritch was an editor of which publican from Notre Dame?
+Q22: Who was the president of Notre Dame in 2012?
+Q23: The Kellogg Institute for International Studies is part of which university?
+Q24: In what year did Notre Dame begin to host the Global Adaptation Index?
+Q25: What threat does the Global Adaptation Index study?
+Q26: How many undergrads were attending Notre Dame in 2014?
+Q27: How many students in total were at Notre Dame in 2014?
+
+
+A5: The person who was the Director of the Science Museum at Notre Dame in the late 19th century was Father Joseph Carrier, C.S.C.
+A6: John Augustine Zahm lived from 1851 to 1921.
+A7: John Augustine Zahm came to co-direct the Science Department at Notre Dame.
+A8: John Zahm wrote the book "Evolution and Dogma" in 1896.
+A9: Father Josh Carrier held the professorship of Chemistry and Physics at Notre Dame.
+A10: Albert Zahm began comparing aeronatical models at Notre Dame in 1882.
+A11: Professor Jerome Green sent the first wireless message in the USA.
+A12: Jerome Green sent his first wireless message in 1899.
+A13: John Zahm's brother constructed the early wind tunnel at Notre Dame.
+A14: The work on a germ-free-life ended up in the creation of the Lobund Institute.
+A15: Lobund of Notre Dame became independent around the 1920s.
+A16: Lobund at Notre Dame became an Institute in 1950.
+A17: The Lobund Institute was merged into the Department of Biology at Notre Dame in 1958.
+A18: In 1939, Gurian created the Review of Politics at Notre Dame.
+A19: The Review of Politics was inspired by German Catholic journals.
+A20: Gurian edited the Review of Politics at Notre Dame for 44 years.
+A21: Thomas Stritch was an editor of the Review of Politics.
+A22: The president of Notre Dame in 2012 was John Jenkins.
+A23: The Kellogg Institute for International Studies is part of the University of Notre Dame.
+A24: Notre Dame began to host the Global Adaptation Index in 2013.
+A25: The Global Adaptation Index studies the threat of climate change.
+A26: In 2014, there were 8,500 undergrads attending Notre Dame.
+A27: In 2014, there were a total of 12,500 students at Notre Dame.
+
+
+Q6: What company did Ray Kroc own?
+Q7: How many stories tall is the main library at Notre Dame?
+Q8: What is the name of the main library at Notre Dame?
+Q9: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+Q10: Which artist created the mural on the Theodore M. Hesburgh Library?
+Q11: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+Q12: How many incoming students did Notre Dame admit in fall 2015?
+Q13: What percentage of students were admitted to Notre Dame in fall 2015?
+Q14: Where does Notre Dame rank in terms of academic profile among research universities in the US?
+Q15: What percentage of students at Notre Dame participated in the Early Action program?
+Q16: How many miles does the average student at Notre Dame travel to study there?
+Q17: Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?
+Q18: The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?
+Q19: In 2014 what entity named Notre Dame 10th best of all American universities?
+Q20: What percentage of Notre Dame students decide to study abroad?
+Q21: When did study of a germ-free-life begin at Notre Dame?
+Q22: What does the Kroc Institute at Notre Dame focus on?
+
+A6: Ray Kroc owned McDonald's.
+A7: The main library at Notre Dame is 14 stories tall.
+A8: The main library at Notre Dame is the Theodore M. Hesburgh Library.
+A9: The Theodore M. Hesburgh Library at Notre Dame was finished in 1963.
+A10: Millard Sheets created the mural on the Theodore M. Hesburgh Library.
+A11: The common name for the mural created by Millard Sheets at Notre Dame is "Touchdown Jesus".
+A12: In fall 2015, Notre Dame admitted 3,577 incoming students.
+A13: 19.7% of students were admitted to Notre Dame in fall 2015.
+A14: Notre Dame ranks 10 to 15 in terms of academic profile among research universities in the US.
+A15: 39.1% of students at Notre Dame participated in the Early Action program.
+A16: The average student at Notre Dame travels more than 750 miles to study there.
+A17: In its 2015-2016 university rankings, U.S. News & World Report ranked Notre Dame 18th overall among "national universities" in the United States.
+A18: The undergrad school at the Mendoza College of Business was ranked 1st overall by BusinessWeek.
+A19: In 2014, USA Today ranked Notre Dame 10th overall for American universities.
+A20: 57.6% of Notre Dame students decide to study abroad.
+A21: The study of a germ-free-life began at Notre Dame in a non-specified year.
+A22: The Kroc Institute at Notre Dame focuses on peace studies.
+
+Q1: How many teams participate in the Notre Dame Bookstore Basketball tournament?
+Q2: For what cause is money raised at the Bengal Bouts tournament at Notre Dame?
+
+A1: Not specified (The context does not provide the number of teams participating in the Notre Dame Bookstore Basketball tournament)
+A2: Money is raised at the Bengal Bouts tournament at Notre Dame for the Holy Cross Missions in Bangladesh.

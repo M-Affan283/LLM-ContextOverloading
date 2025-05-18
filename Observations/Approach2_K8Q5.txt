@@ -1,0 +1,162 @@
+
+K8Q5: 
+  
+  -------------------------------
+
+Question | Predicted Answer | Gold Answer
+--------------------------------------------------------------------------------
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+  🤖 Predicted: The Virgin Mary allegedly appeared to Bernadette Soubirous in 1858 in Lourdes, France.
+  ✅ Gold     : Saint Bernadette Soubirous
+
+Q2: What is in front of the Notre Dame Main Building?
+  🤖 Predicted: A copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes" is in front of the Notre Dame Main Building.
+  ✅ Gold     : a copper statue of Christ
+
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+  🤖 Predicted: The Basilica of the Sacred heart at Notre Dame is beside the Main Building.
+  ✅ Gold     : the Main Building
+
+Q4: What is the Grotto at Notre Dame?
+  🤖 Predicted: The Grotto at Notre Dame is a Marian place of prayer and reflection, a replica of the grotto at Lourdes, France.
+  ✅ Gold     : a Marian place of prayer and reflection
+
+Q5: What sits on top of the Main Building at Notre Dame?
+  🤖 Predicted: A golden statue of the Virgin Mary sits on top of the Main Building at Notre Dame.
+  ✅ Gold     : a golden statue of the Virgin Mary
+
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+  🤖 Predicted: The Scholastic Magazine of Notre Dame began publishing in September 1876.
+  ✅ Gold     : September 1876
+
+Q7: How often is Notre Dame's the Juggler published?
+  🤖 Predicted: The Juggler is published twice a year.
+  ✅ Gold     : twice
+
+Q8: What is the daily student paper at Notre Dame called?
+  🤖 Predicted: The daily student paper at Notre Dame is called The Observer.
+  ✅ Gold     : The Observer
+
+Q9: How many student news papers are found at Notre Dame?
+  🤖 Predicted: There are 3 student news papers at Notre Dame.
+  ✅ Gold     : three
+
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+  🤖 Predicted: The student paper Common Sense began publication at Notre Dame in 1987.
+  ✅ Gold     : 1987
+
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+  🤖 Predicted: The headquarters of the Congregation of the Holy Cross is in Rome.
+  ✅ Gold     : Rome
+
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+  🤖 Predicted: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.
+  ✅ Gold     : Moreau Seminary
+
+Q13: What is the oldest structure at Notre Dame?
+  🤖 Predicted: Old College, the oldest building on campus, is the oldest structure at Notre Dame.
+  ✅ Gold     : Old College
+
+Q14: What individuals live at Fatima House at Notre Dame?
+  🤖 Predicted: Individuals who live at Fatima House at Notre Dame are retired priests and brothers.
+  ✅ Gold     : Retired priests and brothers
+
+Q15: Which prize did Frederick Buechner create?
+  🤖 Predicted: Frederick Buechner created the Buechner Prize for Preaching.
+  ✅ Gold     : Buechner Prize for Preaching
+
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+  🤖 Predicted: The College of Engineering at Notre Dame offers 8 BS level degrees.
+  ✅ Gold     : eight
+
+Q17: In what year was the College of Engineering at Notre Dame formed?
+  🤖 Predicted: The College of Engineering at Notre Dame was formed in 1920.
+  ✅ Gold     : 1920
+
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+  🤖 Predicted: Early courses in civil and mechanical engineering were a part of the College of Science since the 1870s.
+  ✅ Gold     : the College of Science
+
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+  🤖 Predicted: There are 5 departments within the Stinson-Remick Hall of Engineering.
+  ✅ Gold     : five
+
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+  🤖 Predicted: The College of Science began to offer civil engineering courses in the 1870s.
+  ✅ Gold     : the 1870s
+
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+  🤖 Predicted: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.
+  ✅ Gold     : Learning Resource Center
+
+Q22: How many colleges for undergraduates are at Notre Dame?
+  🤖 Predicted: There are 5 undergraduate colleges at Notre Dame.
+  ✅ Gold     : five
+
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+  🤖 Predicted: The First Year of Studies program was established in 1962.
+  ✅ Gold     : The First Year of Studies program
+
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+  🤖 Predicted: The First Year of Studies program at Notre Dame was recognized as "outstanding" by U.S. News & World Report.
+  ✅ Gold     : U.S. News & World Report
+
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+  🤖 Predicted: The granting of Doctorate degrees first occurred in 1897 at Notre Dame.
+  ✅ Gold     : 1924
+
+Q26: What type of degree is an M.Div.?
+  🤖 Predicted: An M.Div. is a Master of Divinity degree.
+  ✅ Gold     : Master of Divinity
+
+Q27: In what year was a Master of Arts course first offered at Notre Dame?
+  🤖 Predicted: A Master of Arts course first offered at Notre Dame was in the 1854–1855 academic year.
+  ✅ Gold     : Alliance for Catholic Education
+
+Q28: Which department at Notre Dame is the only one to not offer a PhD program?
+  🤖 Predicted: The only department at Notre Dame to not offer a PhD program is the Department of Theology.
+  ✅ Gold     : 1854
+
+Q29: Which program at Notre Dame offers a Master of Education degree?
+  🤖 Predicted: The Alliance for Catholic Education program offers a Master of Education program.
+  ✅ Gold     : Department of Pre-Professional Studies
+
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+  🤖 Predicted: The Joan B. Kroc Institute for International Peace Studies studies the reasons for violent conflict.
+  ✅ Gold     : Joan B. Kroc Institute for International Peace Studies
+
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+  🤖 Predicted: The title of Notre Dame's Theodore Hesburgh is President Emeritus.
+  ✅ Gold     : President Emeritus of the University of Notre Dame
+
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+  🤖 Predicted: The Joan B. Kroc Institute for International Peace Studies was founded in 1986.
+  ✅ Gold     : 1986
+
+Q33: To whom was John B. Kroc married?
+  🤖 Predicted: John B. Kroc was married to Joan B. Kroc.
+  ✅ Gold     : Ray Kroc
+
+Q34: What company did Ray Kroc own?
+  🤖 Predicted: Ray Kroc owned McDonald's.
+  ✅ Gold     : McDonald's
+
+Q35: How many stories tall is the main library at Notre Dame?
+  🤖 Predicted: The main library at Notre Dame is 14 stories tall.
+  ✅ Gold     : 14
+
+Q36: What is the name of the main library at Notre Dame?
+  🤖 Predicted: The main library at Notre Dame is the Theodore M. Hesburgh Library.
+  ✅ Gold     : Theodore M. Hesburgh Library
+
+Q37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+  🤖 Predicted: The Theodore M. Hesburgh Library at Notre Dame was finished in 1963.
+  ✅ Gold     : 1963
+
+Q38: Which artist created the mural on the Theodore M. Hesburgh Library?
+  🤖 Predicted: Millard Sheets created the mural on the Theodore M. Hesburgh Library.
+  ✅ Gold     : Millard Sheets
+
+Q39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+  🤖 Predicted: The mural created by Millard Sheets at Notre Dame is commonly known as "Touchdown Jesus".
+  ✅ Gold     : Touchdown Jesus

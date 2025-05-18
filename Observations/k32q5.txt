@@ -1,0 +1,515 @@
+Q1: To whom did the Virgin Mary allegedly appear in 1858 in Lourdes France?
+LLM Answer: The Virgin Mary allegedly appeared to Bernadette Soubirous in 1858 in Lourdes, France.
+Ground Truth: Saint Bernadette Soubirous
+
+Q2: What is in front of the Notre Dame Main Building?
+LLM Answer: In front of the Notre Dame Main Building is a copper statue of Christ with arms upraised with the legend "Venite Ad Me Omnes".
+Ground Truth: a copper statue of Christ
+
+Q3: The Basilica of the Sacred heart at Notre Dame is beside to which structure?
+LLM Answer: The Basilica of the Sacred heart at Notre Dame is beside the Main Building.
+Ground Truth: the Main Building
+
+Q4: What is the Grotto at Notre Dame?
+LLM Answer: The Grotto at Notre Dame is a Marian place of prayer and reflection, a replica of the grotto at Lourdes, France.
+Ground Truth: a Marian place of prayer and reflection
+
+Q5: What sits on top of the Main Building at Notre Dame?
+LLM Answer: A golden statue of the Virgin Mary sits on top of the Main Building at Notre Dame.
+Ground Truth: a golden statue of the Virgin Mary
+
+Q6: When did the Scholastic Magazine of Notre dame begin publishing?
+LLM Answer: The Scholastic Magazine of Notre Dame began publishing in September 1876.
+Ground Truth: September 1876
+
+Q7: How often is Notre Dame's the Juggler published?
+LLM Answer: The Juggler is published twice a year.
+Ground Truth: twice
+
+Q8: What is the daily student paper at Notre Dame called?
+LLM Answer: The daily student paper at Notre Dame is called The Observer.
+Ground Truth: The Observer
+
+Q9: How many student news papers are found at Notre Dame?
+LLM Answer: There are 9 student-run news outlets at Notre Dame.
+Ground Truth: three
+
+Q10: In what year did the student paper Common Sense begin publication at Notre Dame?
+LLM Answer: The student paper Common Sense began publication at Notre Dame in 1987.
+Ground Truth: 1987
+
+Q11: Where is the headquarters of the Congregation of the Holy Cross?
+LLM Answer: The headquarters of the Congregation of the Holy Cross is in Rome.
+Ground Truth: Rome
+
+Q12: What is the primary seminary of the Congregation of the Holy Cross?
+LLM Answer: The primary seminary of the Congregation of the Holy Cross is Moreau Seminary.
+Ground Truth: Moreau Seminary
+
+Q13: What is the oldest structure at Notre Dame?
+LLM Answer: The oldest structure at Notre Dame is Old College.
+Ground Truth: Old College
+
+Q14: What individuals live at Fatima House at Notre Dame?
+LLM Answer: Individuals who live at Fatima House at Notre Dame are retired priests and brothers.
+Ground Truth: Retired priests and brothers
+
+Q15: Which prize did Frederick Buechner create?
+LLM Answer: Frederick Buechner created the Buechner Prize for Preaching.
+Ground Truth: Buechner Prize for Preaching
+
+Q16: How many BS level degrees are offered in the College of Engineering at Notre Dame?
+LLM Answer: The College of Engineering at Notre Dame offers 8 BS level degrees.
+Ground Truth: eight
+
+Q17: In what year was the College of Engineering at Notre Dame formed?
+LLM Answer: The College of Engineering at Notre Dame was formed in 1893.
+Ground Truth: 1920
+
+Q18: Before the creation of the College of Engineering similar studies were carried out at which Notre Dame college?
+LLM Answer: Similar studies were carried out at the College of Science before the creation of the College of Engineering.
+Ground Truth: the College of Science
+
+Q19: How many departments are within the Stinson-Remick Hall of Engineering?
+LLM Answer: Not specified
+Ground Truth: five
+
+Q20: The College of Science began to offer civil engineering courses beginning at what time at Notre Dame?
+LLM Answer: The College of Science began to offer civil engineering courses in the 1870s at Notre Dame.
+Ground Truth: the 1870s
+
+Q21: What entity provides help with the management of time for new students at Notre Dame?
+LLM Answer: The entity that provides help with the management of time for new students at Notre Dame is the First Year of Studies program.
+Ground Truth: Learning Resource Center
+
+Q22: How many colleges for undergraduates are at Notre Dame?
+LLM Answer: Not specified
+Ground Truth: five
+
+Q23: What was created at Notre Dame in 1962 to assist first year students?
+LLM Answer: In 1962, a program called the Learning Resource Center was created at Notre Dame to assist first year students.
+Ground Truth: The First Year of Studies program
+
+Q24: Which organization declared the First Year of Studies program at Notre Dame "outstanding?"
+LLM Answer: The First Year of Studies program at Notre Dame was recognized as "outstanding" by U.S. News & World Report.
+Ground Truth: U.S. News & World Report
+
+Q25: The granting of Doctorate degrees first occurred in what year at Notre Dame?
+LLM Answer: The granting of Doctorate degrees first occurred in 1924 at Notre Dame.
+Ground Truth: 1924
+
+Q26: What type of degree is an M.Div.?
+LLM Answer: An M.Div. is a Master of Divinity degree.
+Ground Truth: Master of Divinity
+
+Q27: Which program at Notre Dame offers a Master of Education degree?
+LLM Answer: The Alliance for Catholic Education program offers a Master of Education degree.
+Ground Truth: Alliance for Catholic Education
+
+Q28: In what year was a Master of Arts course first offered at Notre Dame?
+LLM Answer: A Master of Arts course was first offered at Notre Dame in the 1854–1855 academic year.
+Ground Truth: 1854
+
+Q29: Which department at Notre Dame is the only one to not offer a PhD program?
+LLM Answer: The Department of Art, Art History, and Design at Notre Dame is the only one to not offer a PhD program.
+Ground Truth: Department of Pre-Professional Studies
+
+Q30: What institute at Notre Dame studies  the reasons for violent conflict?
+LLM Answer: The Joan B. Kroc Institute for International Peace Studies studies the reasons for violent conflict.
+Ground Truth: Joan B. Kroc Institute for International Peace Studies
+
+Q31: What is the title of Notre Dame's Theodore Hesburgh?
+LLM Answer: Theodore Hesburgh is the title of Notre Dame's Theodore M. Hesburgh.
+Ground Truth: President Emeritus of the University of Notre Dame
+
+Q32: In what year was the Joan B. Kroc Institute for International Peace Studies founded?
+LLM Answer: The Joan B. Kroc Institute for International Peace Studies was founded in 1986.
+Ground Truth: 1986
+
+Q33: To whom was John B. Kroc married?
+LLM Answer: John B. Kroc was married to Ruth Munroe.
+Ground Truth: Ray Kroc
+
+Q34: What company did Ray Kroc own?
+LLM Answer: Ray Kroc owned McDonald's.
+Ground Truth: McDonald's
+
+Q35: How many stories tall is the main library at Notre Dame?
+LLM Answer: Not specified
+Ground Truth: 14
+
+Q36: What is the name of the main library at Notre Dame?
+LLM Answer: Main Library
+Ground Truth: Theodore M. Hesburgh Library
+
+Q37: In what year was the Theodore M. Hesburgh Library at Notre Dame finished?
+LLM Answer: The Theodore M. Hesburgh Library at Notre Dame was finished in 1963.
+Ground Truth: 1963
+
+Q38: Which artist created the mural on the Theodore M. Hesburgh Library?
+LLM Answer: Millard Sheets created the mural on the Theodore M. Hesburgh Library.
+Ground Truth: Millard Sheets
+
+Q39: What is a common name to reference the mural created by Millard Sheets at Notre Dame?
+LLM Answer: The common name for the mural created by Millard Sheets at Notre Dame is "Touchdown Jesus".
+Ground Truth: Touchdown Jesus
+
+Q40: How many incoming students did Notre Dame admit in fall 2015?
+LLM Answer: Notre Dame admitted 3,577 incoming students in fall 2015.
+Ground Truth: 3,577
+
+Q41: What percentage of students were admitted to Notre Dame in fall 2015?
+LLM Answer: 19.7% of students were admitted to Notre Dame in fall 2015.
+Ground Truth: 19.7%
+
+Q42: Where does Notre Dame rank in terms of academic profile among research universities in the US?
+LLM Answer: Notre Dame ranks 10 to 15 in terms of academic profile among research universities in the US.
+Ground Truth: the top 10 to 15 in the nation
+
+Q43: What percentage of students at Notre Dame participated in the Early Action program?
+LLM Answer: 39.1% of students at Notre Dame participated in the Early Action program.
+Ground Truth: 39.1%
+
+Q44: How many miles does the average student at Notre Dame travel to study there?
+LLM Answer: The average student at Notre Dame travels more than 750 miles to study there.
+Ground Truth: more than 750 miles
+
+Q45: Where did U.S. News & World Report rank Notre Dame in its 2015-2016 university rankings?
+LLM Answer: U.S. News & World Report ranked Notre Dame 18th in its 2015-2016 university rankings.
+Ground Truth: 18th overall
+
+Q46: Forbes.com placed Notre Dame at what position compared to other US research universities?
+LLM Answer: Forbes.com placed Notre Dame at 18th compared to other US research universities.
+Ground Truth: 8th
+
+Q47: The undergrad school at the Mendoza College of Business was ranked where according to BusinessWeek?
+LLM Answer: The undergrad school at the Mendoza College of Business was ranked 1st overall by BusinessWeek.
+Ground Truth: 1st overall
+
+Q48: In 2014 what entity named Notre Dame 10th best of all American universities?
+LLM Answer: In 2014, USA Today named Notre Dame 10th best of all American universities.
+Ground Truth: USA Today
+
+Q49: What percentage of Notre Dame students decide to study abroad?
+LLM Answer: 57.6% of Notre Dame students decide to study abroad.
+Ground Truth: 57.6%
+
+Q50: What person was the Director of the Science Museum at Notre Dame in the late 19th century?
+LLM Answer: The person who was the Director of the Science Museum at Notre Dame in the late 19th century was Father Joseph Carrier, C.S.C.
+Ground Truth: Father Joseph Carrier, C.S.C.
+
+Q51: What was the lifespan of John Augustine Zahm?
+LLM Answer: John Augustine Zahm had a lifespan of 1851-1921.
+Ground Truth: 1851–1921
+
+Q52: What program did John Augustine Zahm come to co-direct at Nore Dame?
+LLM Answer: John Augustine Zahm came to co-direct the Science Department at Notre Dame.
+Ground Truth: the Science Department
+
+Q53: What book did John Zahm write in 1896?
+LLM Answer: John Zahm wrote the book "Evolution and Dogma" in 1896.
+Ground Truth: Evolution and Dogma
+
+Q54: What professorship did Father Josh Carrier hold at Notre Dame?
+LLM Answer: Father Josh Carrier held the professorship of Chemistry and Physics at Notre Dame.
+Ground Truth: Professor of Chemistry and Physics
+
+Q55: In what year did Albert Zahm begin comparing aeronatical models at Notre Dame?
+LLM Answer: Albert Zahm began comparing aeronatical models at Notre Dame in 1882.
+Ground Truth: 1882
+
+Q56: Which professor sent the first wireless message in the USA?
+LLM Answer: The first wireless message in the USA was sent by Professor Jerome Green.
+Ground Truth: Professor Jerome Green
+
+Q57: In what year did Jerome Green send his first wireless message?
+LLM Answer: Jerome Green sent his first wireless message in 1899.
+Ground Truth: Around 1899
+
+Q58: Which individual worked on projects at Notre Dame that eventually created neoprene?
+LLM Answer: Irvin Abell worked on projects at Notre Dame that eventually created neoprene.
+Ground Truth: Father Julius Nieuwland
+
+Q59: What did the brother of John Zahm construct at Notre Dame?
+LLM Answer: John Zahm's brother constructed the Lobund Institute at Notre Dame.
+Ground Truth: an early wind tunnel
+
+Q60: Work on a germ-free-life ended up in the creation of which Notre Dame institute?
+LLM Answer: The work on a germ-free-life ended up in the creation of the Lobund Institute.
+Ground Truth: The Lobund Institute
+
+Q61: Around what time did Lobund of Notre Dame become independent?
+LLM Answer: Lobund of Notre Dame became independent around the 1920s.
+Ground Truth: the 1940s
+
+Q62: In what year did Lobund at Notre Dame become an Institute?
+LLM Answer: In 1950, Lobund at Notre Dame became an Institute.
+Ground Truth: 1950
+
+Q63: The Lobund Institute was merged into the Department of Biology at Notre Dame in what year?
+LLM Answer: The Lobund Institute was merged into the Department of Biology at Notre Dame in 1958.
+Ground Truth: 1958
+
+Q64: When did study of a germ-free-life begin at Notre Dame?
+LLM Answer: The study of a germ-free-life began at Notre Dame in Not specified.
+Ground Truth: 1928
+
+Q65: Gurian created what in 1939 at Notre Dame?
+LLM Answer: In 1939, Gurian created the Medieval Institute at Notre Dame.
+Ground Truth: The Review of Politics
+
+Q66: What was the Review of Politics inspired by?
+LLM Answer: The Review of Politics was inspired by German Catholic journals.
+Ground Truth: German Catholic journals
+
+Q67: Over how many years did Gurian edit the Review of Politics at Notre Dame?
+LLM Answer: Gurian edited the Review of Politics at Notre Dame for 44 years.
+Ground Truth: 44
+
+Q68: Thomas Stritch was an editor of which publican from Notre Dame?
+LLM Answer: Thomas Stritch was an editor of the Review of Politics.
+Ground Truth: Review of Politics
+
+Q69: Who was the president of Notre Dame in 2012?
+LLM Answer: The president of Notre Dame in 2012 was John Jenkins.
+Ground Truth: John Jenkins
+
+Q70: The Kellogg Institute for International Studies is part of which university?
+LLM Answer: The Kellogg Institute for International Studies is part of the University of Notre Dame.
+Ground Truth: Notre Dame
+
+Q71: What does the Kroc Institute at Notre Dame focus on?
+LLM Answer: The Kroc Institute at Notre Dame focuses on peace studies.
+Ground Truth: International Peace studies
+
+Q72: In what year did Notre Dame begin to host the Global Adaptation Index?
+LLM Answer: Notre Dame began to host the Global Adaptation Index in 2013.
+Ground Truth: 2013
+
+Q73: What threat does the Global Adaptation Index study?
+LLM Answer: The Global Adaptation Index studies the threat of climate change.
+Ground Truth: climate change
+
+Q74: How many undergrads were attending Notre Dame in 2014?
+LLM Answer: In 2014, there were 8,462 undergrads attending Notre Dame.
+Ground Truth: 8,448
+
+Q75: What percentage of students at Notre Dame are the children of former Notre Dame students?
+LLM Answer: 20% of students at Notre Dame are the children of former Notre Dame students.
+Ground Truth: 21–24%
+
+Q76: How many teams participate in the Notre Dame Bookstore Basketball tournament?
+LLM Answer: 700
+Ground Truth: over 700
+
+Q77: For what cause is money raised at the Bengal Bouts tournament at Notre Dame?
+LLM Answer: For the Holy Cross Missions in Bangladesh
+Ground Truth: the Holy Cross Missions in Bangladesh
+
+Q78: How many students in total were at Notre Dame in 2014?
+LLM Answer: In 2014, there were a total of 13,113 students at Notre Dame.
+Ground Truth: 12,179
+
+Q79: What percentage of undergrads live on the Notre Dame campus?
+LLM Answer: 80%
+Ground Truth: 80%
+
+Q80: How many student housing areas are reserved for Notre Dame's graduate students?
+LLM Answer: Not specified
+Ground Truth: four
+
+Q81: How many dorms for males are on the Notre Dame campus?
+LLM Answer: 15
+Ground Truth: 15
+
+Q82: What amount of the graduate student body at Notre Dame live on the campus?
+LLM Answer: Not specified
+Ground Truth: 20%
+
+Q83: There are how many dorms for females at Notre Dame?
+LLM Answer: 14
+Ground Truth: 14
+
+Q84: What is Congregation of Holy Cross in Latin?
+LLM Answer: Congregatio a Sancta Cruce
+Ground Truth: Congregatio a Sancta Cruce
+
+Q85: What percentage of Notre Dame students feel they are Christian?
+LLM Answer: 81% of Notre Dame students feel they are Christian.
+Ground Truth: more than 93%
+
+Q86: How often is Catholic mass held at Notre Dame in a week?
+LLM Answer: Over 100 times
+Ground Truth: over 100 times
+
+Q87: How many chapels are on the Notre Dame campus?
+LLM Answer: 57
+Ground Truth: Fifty-seven
+
+Q88: What amount of the student body of Notre Dame identifies as Catholic?
+LLM Answer: Over 93%
+Ground Truth: over 80%
+
+Q89: In what year was the Main Building at Notre Dame razed in a fire?
+LLM Answer: 1879
+Ground Truth: 1879
+
+Q90: Who was the president of Notre Dame in 1879?
+LLM Answer: The Rev. William Corby
+Ground Truth: Rev. William Corby
+
+Q91: On what date was the rebuilding of The Main Building begun at Notre Dame after the fire that claimed the previous?
+LLM Answer: May 17th
+Ground Truth: 17th of May
+
+Q92: What did the Science Hall at Notre Dame come to be known as?
+LLM Answer: Science Hall came to be known as the LaFortune Center
+Ground Truth: LaFortune Student Center
+
+Q93: What type of education was pushed at Notre Dame before its embracing of national standards?
+LLM Answer: Before its embracing of national standards, Notre Dame pushed a classical education.
+Ground Truth: scholastic and classical
+
+Q94: Which college did Notre Dame add in 1921?
+LLM Answer: The College of Architecture was added to Notre Dame in 1921.
+Ground Truth: College of Commerce
+
+Q95: Over how many years did the change to national standards undertaken at Notre Dame in the early 20th century take place?
+LLM Answer: The change to national standards undertaken at Notre Dame in the early 20th century took place over 20 years.
+Ground Truth: three years
+
+Q96: Catholic people identified with Notre Dame, what religious group did people feel Yale represented?
+LLM Answer: Protestant people identified with Yale
+Ground Truth: the Protestant establishment
+
+Q97: Irvin Abell was given what award by Notre Dame?
+LLM Answer: Irvin Abell was given the Laetare Medal by Notre Dame.
+Ground Truth: Laetare Medal
+
+Q98: Which year was the Laetare Medal first given out at Notre Dame?
+LLM Answer: The Laetare Medal was first given out at Notre Dame in 1883.
+Ground Truth: 1883
+
+Q99: Which institute involving animal life did Cavanaugh create at Notre Dame?
+LLM Answer: Cavanaugh created the Lobund Institute involving animal life at Notre Dame.
+Ground Truth: Lobund Institute for Animal Studies
+
+Q100: What is O'Shaughnessy Hall of Notre Dame formerly known as?
+LLM Answer: Administration Building
+Ground Truth: Hall of Liberal Arts
+
+Q101: Which president did Notre Dame have in 1947?
+LLM Answer: The president of Notre Dame in 1947 was John O'Hara.
+Ground Truth: Rev. John J. Cavanaugh, C.S.C.
+
+Q102: Outside of an institute studying animals, what other institute did Cavanugh create at Notre Dame?
+LLM Answer: Outside of an institute studying animals, Cavanugh created the Institute for Scholasticism at Notre Dame.
+Ground Truth: Medieval Institute
+
+Q103: What was the lifespan of Theodore Hesburgh?
+LLM Answer: Theodore Hesburgh lived from 1917 to 2015.
+Ground Truth: 1917–2015
+
+Q104: During what years was Theodor Hesburgh president of Notre Dame?
+LLM Answer: Theodore Hesburgh was president of Notre Dame from 1952 to 1987.
+Ground Truth: 1952–87
+
+Q105: How many faculty members were at Notre Dame when Hesburgh left the role of president?
+LLM Answer: Not specified
+Ground Truth: 950
+
+Q106: In what year did Notre Dame have its earliest undergraduate that was female?
+LLM Answer: Not specified
+Ground Truth: 1971
+
+Q107: When did John Jenkins become the president of Notre Dame?
+LLM Answer: John Jenkins became the president of Notre Dame in 2012.
+Ground Truth: 2005
+
+Q108: In terms of the amount of presidents Notre Dame has had, where is John Jenkins on the list?
+LLM Answer: John Jenkins is the 18th president of Notre Dame.
+Ground Truth: 17th
+
+Q109: Who was the Notre Dame president that preceded John Jenkins?
+LLM Answer: The president who preceded John Jenkins was Father Edward Malloy.
+Ground Truth: Malloy
+
+Q110: Which arena was constructed under Jenkins at Notre Dame?
+LLM Answer: Compton Family Ice Arena
+Ground Truth: Compton Family Ice Arena
+
+Q111: How much money was spent on enhancing Notre Dame Stadium under John Jenkins?
+LLM Answer: $35 million was spent on enhancing Notre Dame Stadium under John Jenkins.
+Ground Truth: $400m
+
+Q112: Which congregation is in charge of the Old College at Notre Dame?
+LLM Answer: The Old College at Notre Dame is in charge of the Congregation of the Holy Cross.
+Ground Truth: Congregation of Holy Cross
+
+Q113: What structure is found on the location of the original church of Father Sorin at Notre Dame?
+LLM Answer: The Basilica of the Sacred Heart
+Ground Truth: Basilica of the Sacred Heart
+
+Q114: In which architectural style is the Basilica of the Sacred Heart at Notre Dame made?
+LLM Answer: The Basilica of the Sacred Heart at Notre Dame is made in the French Gothic architectural style.
+Ground Truth: French Revival
+
+Q115: Which individual painted the inside of the Basilica of the Sacred Heart at Notre Dame?
+LLM Answer: Luigi Gregori
+Ground Truth: Luigi Gregori
+
+Q116: In what year was the Grotto of Our Lady of Lourdes at Notre Dame constructed?
+LLM Answer: The Grotto of Our Lady of Lourdes was constructed in 1896
+Ground Truth: 1896
+
+Q117: Which person oversaw the creation of a science hall at Notre Dame in 1883?
+LLM Answer: Fr. Zahm
+Ground Truth: Fr. Zahm
+
+Q118: In what year did the student union building at Notre Dame get renamed to LaFortune Center?
+LLM Answer: The student union building at Notre Dame got renamed to LaFortune Center in 1950
+Ground Truth: 1950
+
+Q119: After which individual was the LaFortune Center Notre Dame named?
+LLM Answer: The LaFortune Center Notre Dame was named after Joseph LaFortune
+Ground Truth: Joseph LaFortune
+
+Q120: How large in square feet is the LaFortune Center at Notre Dame?
+LLM Answer: The LaFortune Center at Notre Dame is 83,000 square feet
+Ground Truth: 83,000 square feet
+
+Q121: What is the annual budget of Notre Dame's LaFortune Center?
+LLM Answer: The annual budget of Notre Dame's LaFortune Center is $1.2 million
+Ground Truth: $1.2 million
+
+Q122: How many halls are at Notre Dame that house students?
+LLM Answer: 29
+Ground Truth: 29
+
+Q123: Which library was built at Notre Dame in 1963?
+LLM Answer: The Hesburgh Library was built at Notre Dame in 1963
+Ground Truth: Theodore Hesburgh Library
+
+Q124: How many books are housed at the Theodore Hesburgh Library?
+LLM Answer: Not specified
+Ground Truth: almost 4 million
+
+Q125: Construction for which hall started on March 8th 2007 at Notre Dame?
+LLM Answer: Jenkins Nanovic Halls
+Ground Truth: Duncan Hall
+
+Q126: Which baseball stadium is found at Notre Dame?
+LLM Answer: Notre Dame Stadium
+Ground Truth: Frank Eck Stadium
+
+Q127: In what year did Notre Dame create the Office of Sustainability?
+LLM Answer: The Office of Sustainability was created at Notre Dame in 2008
+Ground Truth: 2008
+
+Q128: What percentage of the food served at Notre Dame is locally grown?
+LLM Answer: 40% of the food served at Notre Dame is locally grown
+Ground Truth: 40%
+
+Q129: Notre Dame got a "B" for its sustainability practices from which entity?
+LLM Answer: Notre Dame got a "B" for its sustainability practices from the Sustainable Endowments Institute.
+Ground Truth: Sustainable Endowments Institute
